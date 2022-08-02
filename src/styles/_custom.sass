@@ -2,15 +2,41 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 50%
+    right: 25%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
+    top: 10%
+    right: 3%
+  &-3
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
     top: 51%
-    right: 30%
+    right: 0%
+  &-4
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 61%
+    right: 90%
+  &-6
+    animation: float1 3.4s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 70%
 
-
+.banner-principal
+  .banner-principal__row
+    min-height: 506px
+  .banner-principal__img
+    padding: 0 !important
+    margin-top: auto
+    img
+      max-height: 485px
+      width: auto
+      margin-top: auto
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/bg-top-header.svg') !important
 @keyframes float1
   0%
     transform: translateY(20px)
