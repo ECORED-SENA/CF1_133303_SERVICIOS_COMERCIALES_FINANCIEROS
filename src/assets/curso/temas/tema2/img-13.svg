@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="338" viewBox="0 0 630 338">
+  <g id="Grupo_93984" data-name="Grupo 93984" transform="translate(-705 -4530)">
+    <rect id="Rectángulo_34300" data-name="Rectángulo 34300" width="630" height="338" rx="20" transform="translate(705 4530)" fill="#fff"/>
+    <g id="Grupo_81202" data-name="Grupo 81202" transform="translate(5 6)">
+      <g id="Grupo_81200" data-name="Grupo 81200" transform="translate(0 -103)">
+        <path id="Trazado_116665" data-name="Trazado 116665" d="M-4221.333-7038v245.333l585.833-.083" transform="translate(4943 11700)" fill="none" stroke="#afafaf" stroke-width="3"/>
+        <path id="Trazado_116666" data-name="Trazado 116666" d="M6,0l6,10H0Z" transform="translate(1315 4901) rotate(90)" fill="#afafaf"/>
+        <path id="Trazado_116667" data-name="Trazado 116667" d="M6,0l6,10H0Z" transform="translate(716 4655)" fill="#afafaf"/>
+      </g>
+      <g id="Grupo_81201" data-name="Grupo 81201" transform="translate(0 -103)">
+        <line id="Línea_144" data-name="Línea 144" y1="212" transform="translate(895 4680)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="6"/>
+        <line id="Línea_145" data-name="Línea 145" y1="212" transform="translate(1210 4680)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="6"/>
+      </g>
+      <text id="Desarrollo" transform="translate(717 4831)" fill="#fc8116" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Desarrollo</tspan></text>
+      <text id="Ventas" transform="translate(727 4578)" fill="#afafaf" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ventas</tspan></text>
+      <text id="Tiempo" transform="translate(1253 4794)" fill="#afafaf" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Tiempo</tspan></text>
+      <text id="Introducción" transform="translate(842 4831)" fill="#fc8116" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Introducción</tspan></text>
+      <text id="Crecimiento" transform="translate(967 4831)" fill="#fc8116" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Crecimiento</tspan></text>
+      <text id="Madurez" transform="translate(1092 4831)" fill="#fc8116" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Madurez</tspan></text>
+      <text id="Declive" transform="translate(1217 4831)" fill="#fc8116" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Declive</tspan></text>
+      <path id="Trazado_116664" data-name="Trazado 116664" d="M-4221.333-6794s119.333-8.667,184.667-51.333,70-59.333,113.667-92,57.667-49.333,94.333-15.333,85.333,87.333,200.667,124" transform="translate(4943 11597)" fill="none" stroke="#fc8116" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

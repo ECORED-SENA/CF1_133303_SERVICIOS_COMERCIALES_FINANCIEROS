@@ -83,7 +83,7 @@
         img(src='@/assets/curso/temas/tema1/img-7.svg' style="max-width: 123px").mx-auto
       .col-md-10
         p.mb-0 Colombia, se encuentra conformada en su sistema financiero, por los establecimientos de crédito, los cuales tienen dentro de sus funciones, la colocación de dinero, mediante el crédito, están conformados por los bancos, cooperativas de ahorro y financieras y compañías de financiamiento comercial. También se encuentran las entidades de servicios financieros y otras entidades financieras, como las fiduciarias. #[b(style="background-color: #E1F3D7; padding: .1rem") Todo el sistema financiero colombiano se encuentra regulado por la Superintendencia Financiera de Colombia (SFC).]
-
+    Separador
     .titulo-segundo.color-acento-contenido
       h2#t_1_1 1.1  Estructura
     
@@ -111,6 +111,173 @@
             .tarjeta-flip__contenido.d-flex.flex-wrap.align-content-center.justify-content-center.text-center.p-4.p-xl-5
               h3 Unidades económicas deficitarias
               p Corresponde a la falta de recursos económicos (dinero) de las personas o empresas, que tienen unos ingresos inferiores a sus gastos, por lo cual requieren del crédito para adquirir bienes y servicios. 
+    .d-flex.flex-wrap.align-items-center.mb-5
+      img(src='@/assets/curso/temas/tema1/img-10.jpg' style="max-width: 505px").mb-4.mb-xl-0.col-xl-5.mx-auto
+      p.mb-0.col-xl-7.ps-xl-4 Dadas estas unidades económicas superativas y deficitarias, el sistema financiero se encarga de canalizar estos recursos, como intermediario, donde las unidades económicas superativas, se ofrecen a las unidades económicas deficitarias, a cambio de una retribución que, generalmente es el pago de interés; este funcionamiento permite que se dé un uso eficiente del dinero, minimizando los riesgos asociados a los mismos, que si los individuos de forma particular realizarán estas operaciones de ahorro y crédito. 
+        br
+        br
+        | La estructura del sistema financiero en Colombia se encuentra compuesta por un conjunto de agentes que interactúan en el sistema, los cuales son las instituciones financieras y sus fondos administrados, vigilados por la Superintendencia Financiera de Colombia.
+    
+    p.mb-5 Dentro de las instituciones financieras se encuentran los establecimientos de crédito, las sociedades de servicios financieros y otras entidades financieras, explicadas a continuación: 
+
+    .d-flex.flex-wrap.align-items-stretch.mb-5
+      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem")
+        .tarjeta.p-4.p-lg-5.position-relative.h-100(style="background-color: #C2E8B0")
+          img(src='@/assets/curso/temas/tema1/img-11.svg' style="max-width: 350px;").banner-principal-decorativo-tj
+          .d-block(style="margin-top: 8rem")
+            h4.mb-4 Establecimientos de crédito
+            p Captan recursos de las unidades económicas superativas, mediante el ahorro, que serán colocados en las unidades económicas deficitarias, mediante los préstamos y otras operaciones. 
+
+      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem")
+        .tarjeta.p-4.p-lg-5.position-relative.h-100(style="background-color: #C2E8B0")
+          img(src='@/assets/curso/temas/tema1/img-12.svg' style="max-width: 350px;").banner-principal-decorativo-tj
+          .d-block(style="margin-top: 8rem")
+            h4.mb-4 Sociedades de servicios financieros
+            p Prestan servicios del sector financiero, pero se encuentran especializadas en brindar asesoría financiera en la administración de los recursos.
+
+      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem")
+        .tarjeta.p-4.p-lg-5.position-relative.h-100(style="background-color: #C2E8B0")
+          img(src='@/assets/curso/temas/tema1/img-13.svg' style="max-width: 350px;").banner-principal-decorativo-tj
+          .d-block(style="margin-top: 8rem")
+            h4.mb-4 Entidades encargadas del control y seguro de depósitos 
+            p Como el Ministerio de Hacienda y Crédito Público, los fondos de garantías, la Superintendencia Financiera de Colombia y el Banco de la República. 
+
+    p.mb-5 El Estatuto Organizacional del Sistema Financiero Colombiano (Eosfco), está representado en los siguientes agentes:
+    .titulo-sexto.color-acento-contenido
+      h5 Título de sexto nivel, 16pt
+      span subtitulo
+
+    .table-responsive
+      table.mb-5(style="min-width: 1044px")
+        thead
+          tr
+            th.p-0(style="border: none !important;")
+              .p-3(style="background-color: #FED5B1; border: 3px solid #FC8116; border-bottom: none; border-right: none; border-top-left-radius: 20px;")
+                h3.text-center.fw-bold.mb-0 Establecimientos de crédito
+            th.p-0(style="border: none !important;")
+              .p-3(style="background-color: #FED5B1; border: 3px solid #FC8116; border-bottom: none;")
+                h3.text-center.fw-bold.mb-0 Sociedades de servicios financieros
+            th.p-0(style="border: none !important;") 
+              .p-3(style="background-color: #FED5B1; border: 3px solid #FC8116; border-bottom: none; border-left: none; border-top-right-radius: 20px;")
+                h3.text-center.fw-bold.mb-0 Otras instituciones financieras
+        tbody
+          tr.d-flex.align-items-stretch(style="width: 300%")
+            td.p-0(style="border: none !important; vertical-align: bottom; width: 33.33%")
+              .h-100.p-3(style="border: 3px solid #FC8116; border-top: none; border-right: none; border-bottom-left-radius: 20px")
+                ul.lista-ul--color
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Bancos.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Corporaciones de financiamiento comercial.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Compañías financieras tradicionales.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Compañías financieras especializadas en leasing.
+                  li 
+                    .my-auto.me-3(style="height: 11px; width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Cooperativas financieras.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Corporaciones de ahorro y vivienda.
+            td.p-0(style="border: none !important; vertical-align: bottom; width: 33.33%")
+              .h-100.p-3(style="border: 3px solid #FC8116; border-top: none;")
+                ul.lista-ul--color
+                  li 
+                    .my-auto.me-3(style="height: 11px; width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades administradoras de pensiones y cesantías.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades fiduciarias.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Almacenes generales de depósitos.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades comisionistas de bolsa.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades administradoras de inversión.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades de intermediación cambiaria y de servicios financieros especiales.
+            td.p-0(style="border: none !important; vertical-align: bottom; width: 33.33%")
+              .h-100.p-3(style="border: 3px solid #FC8116; border-top: none; border-left: none; border-bottom-right-radius: 20px")
+                ul.lista-ul--color
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Instituciones oficiales especiales.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades de capitalización.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Sociedades aseguradoras.
+                  li 
+                    .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+                    | Intermediarios de seguros y reaseguros.
+    Separador
+
+    .titulo-segundo.color-acento-contenido
+      h2#t_1_2 1.2  Normativa
+    
+    p.mb-5 Al hablar de la normatividad, para el sistema financiero en Colombia, se debe iniciar mencionando la pirámide de Hans Kelsen, en la cual se presenta el sistema jurídico en forma de pirámide, de acuerdo con el orden de importancia o supremacía, y en donde cada nivel tiene una relación vertical, entre las normas jurídicas, lo que significa que cada norma obtiene valor a partir de una norma superior. 
+      br
+      br
+      | Según Kelsen existen tres niveles, los cuales se determinan así:
+    img(src='@/assets/curso/temas/tema1/img-14.svg' style="max-width: 820px;").col-xl-8.mx-auto.mb-5
+
+    p.mb-5 La Constitución Política de Colombia, como norma fundamental, en el artículo 150, literal del numeral 19, establece:
+
+    .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema1/ley.svg")
+        .col.ps-lg-5
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Artículo 150
+              p.text-small La Constitución Política de Colombia, como norma fundamental, en el artículo 150, literal del numeral 19
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/OKEst_Anexo2_Articulo_150_PDF.docx')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+    
+    .d-flex.flex-wrap.align-items-center.mb-5
+      img(src='@/assets/curso/temas/tema1/img-15.jpg' style="max-width: 295px;").col-md-3.mb-4.mb-md-0.mx-auto
+      p.col-md-9.ps-md-3.mb-0 La Superintendencia Financiera de Colombia (SFC), está adscrita al Ministerio de Hacienda y Crédito Público y como ya se ha mencionado, tiene la función de vigilancia y control, esta es una entidad con autonomía administrativa y financiera, cuenta con personería jurídica y patrimonio propio. Se creó la Superintendencia Bancaria de Colombia, mediante el Decreto 4327 del 2005, se fusiona en la Superintendencia de Valores y se modifica la estructura de la Superintendencia Financiera de Colombia, mediante el Decreto 710 de 2012.
+    
+    p.mb-5 Por su parte, el Banco de la República es el emisor de la modela legal en Colombia, tiene como función la política monetaria, cambiaria y crediticia del país, por lo cual se encuentra estrechamente relacionado con el sistema financiero y dentro de sus funciones se encuentran:
+
+    .d-flex.flex-wrap.align-items-center.col-xl-10.mb-5.mx-auto
+      .col-lg-6.d-flex.mb-4
+        img(src='@/assets/curso/temas/tema1/img-decorador.svg' style="max-width: 85px; margin-right: -3rem;").position-relative
+        .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #C2E8B0;")
+          p.mb-0.ps-3 Crear los instrumentos de la política monetaria, cambiaria y crediticia
+      
+      .col-lg-6.d-flex.mb-4
+        img(src='@/assets/curso/temas/tema1/img-decorador.svg' style="max-width: 85px; margin-right: -3rem;").ms-auto.position-relative
+        .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #C2E8B0;")
+          p.mb-0.ps-3 Contribuir a la estabilidad financiera del país.
+
+    p.mb-5 Y como se está hablando de normatividad, a continuación, se conocerán algunas de las leyes y decretos aplicables al sistema financiero:
+
+    .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema1/ley.svg")
+        .col.ps-lg-5
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Leyes financieras colombianas
+              p.text-small Conocerán algunas de las leyes y decretos aplicables al sistema financiero
+            .col-sm-auto
+              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/OKEst_Anexo3_LeyesFinancierasColombianas_PDF.docx')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
 </template>
 
 <script>
@@ -131,17 +298,4 @@ export default {
 }
 </script>
 
-<style lang="sass">
-.bloque-texto-edit
-  margin-right: auto
-  margin-left: auto
-  justify-content: start
-  .bloque-texto-g__img
-    left: 50%
-    @media (max-width: 991px)
-      left: 0%
-  .bloque-texto-g__texto
-    width: 70%
-    @media (max-width: 991px)
-      width: 100%
-</style>
+<style lang="sass"></style>
