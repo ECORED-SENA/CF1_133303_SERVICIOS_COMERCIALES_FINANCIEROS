@@ -219,32 +219,84 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Sistema financiero colombiano',
+      referencia:
+        'Canal Institucional. (2015). <em> Todo lo que debe saber sobre el sistema financiero colombiano</em> [Video].',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=HPB223A4zq8',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Sistema financiero colombiano',
+      referencia:
+        'Maggi, M. E. (s. f.). <em>¿Qué es el dinero?</em> Banco de la República.',
+      tipo: 'Ebook',
+      link:
+        'https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/cartilla_dinero.pdf',
+    },
+    {
+      tema: 'Sistema financiero colombiano',
+      referencia:
+        'Franco Cuartas, J. F. (2018). <em>Estructura y evolución del sistema financiero colombiano de la banca comercial a la banca de inversión.</em> SENA.',
+      tipo: 'Revista',
+      link: 'https://revistas.sena.edu.co/index.php/Re_Mo/article/view/1648',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Marketing</em>',
+      significado:
+        'creación de estrategias dirigidas al consumidor, por medio de la cual se quiere estimular la compra de un bien o servicio.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Neuromarketing</em>',
+      significado:
+        'estrategia del <em>marketing</em> basada en la ciencia y la psicología.',
+    },
+    {
+      termino: 'Nicho de mercado',
+      significado:
+        'porción o segmentación del mercado que posee características similares.',
+    },
+    {
+      termino: 'Producto financiero',
+      significado:
+        'la Ley 1328 de 2009, título I, capítulo I; define productos a lo que se entiende por productos las operaciones legalmente autorizadas que se instrumentan en un contrato celebrado con el cliente o que tienen origen en la Ley.',
+    },
+    {
+      termino: 'Portafolio de productos',
+      significado:
+        'medio (documento, presentación, página web), donde se da a conocer la entidad y detalla las características de su oferta comercial, el cual va dirigido a consumidores activos y consumidores potenciales.',
+    },
+    {
+      termino: 'Riesgo',
+      significado: 'posibilidad de un suceso no deseado.',
+    },
+    {
+      termino: 'Servicio financiero',
+      significado:
+        'la Ley 1328 de 2009, Título I, Capítulo I, define los servicios como aquellas actividades conexas al desarrollo de las correspondientes operaciones y que se suministran a los consumidores financieros.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'CESA. (s. f.). <em>Los 4 clientes bancarios que dan valor a la marca.</em>',
+      link:
+        'https://www.cesa.edu.co/news/los-4-clientes-bancarios-que-dan-valor-a-la-marca/',
+    },
+    {
+      referencia:
+        'Constitución Política de Colombia. (1991). Arts. 150, 189 y 335.',
       link: '',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2009). Ley 1328 del 2009. Por la cual se dictan normas en materia financiera, de seguros, del mercado de valores y otras disposiciones. Julio 15 de 2009. DO. No. 47.411',
+      link: '',
+    },
+    {
+      referencia: 'Galán, J. S. (2021). Asesoría. Economipedia.',
+      link: 'https://economipedia.com/definiciones/asesoria.html',
     },
   ],
   creditos: {
@@ -257,10 +309,30 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'María Alejandra Tovar Bernal',
+        cargo: 'Experto Temático',
+        centro: 'Regional Tolima – Centro de Industria y la Construcción',
+      },
+      {
+        nombre: 'Caterine Bedoya Mejía',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
       },
     ],
     desarrolloProducto: [
@@ -283,7 +355,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhon Edinson Castañeda Oviedo',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -296,16 +368,6 @@ export default {
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
