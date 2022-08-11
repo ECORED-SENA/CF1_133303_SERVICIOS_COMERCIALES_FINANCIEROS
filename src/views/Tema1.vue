@@ -7,17 +7,17 @@
         span 1
       h1 Sistema financiero colombiano
     
-    p Es la entidad encargada del papel de mediador entre aquellas personas que de una u otra forma utilizan el dinero para la realización de sus actividades financieras, como las que tienen excedentes de dinero y no lo gastan todo y los que necesitan recursos económicos para financiar sus actividades de consumo o inversión y por tanto gastan más de lo que tienen, estas personas son aquellas que buscan abrir un negocio, comprar casa propia, etc.
+    p(data-aos="fade-right") Es la entidad encargada del papel de mediador entre aquellas personas que de una u otra forma utilizan el dinero para la realización de sus actividades financieras, como las que tienen excedentes de dinero y no lo gastan todo y los que necesitan recursos económicos para financiar sus actividades de consumo o inversión y por tanto gastan más de lo que tienen, estas personas son aquellas que buscan abrir un negocio, comprar casa propia, etc.
  
-    p.mb-5 En el siguiente video se profundiza un poco más sobre qué es y en qué consiste el sistema financiero colombiano:
+    p.mb-5(data-aos="fade-right") En el siguiente video se profundiza un poco más sobre qué es y en qué consiste el sistema financiero colombiano:
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 Al hablar del sistema financiero, se debe abordar como punto de partida, el dinero, el cual es el medio empleado y aceptado, por los gobiernos para realizar transacciones, como la compra o venta de bienes y servicios. A continuación, se muestra la evolución histórica del sistema financiero:
+    p.mb-5(data-aos="fade-right") Al hablar del sistema financiero, se debe abordar como punto de partida, el dinero, el cual es el medio empleado y aceptado, por los gobiernos para realizar transacciones, como la compra o venta de bienes y servicios. A continuación, se muestra la evolución histórica del sistema financiero:
 
-    LineaTiempoC.color-acento-contenido.p-4.mb-5(text-small style="background-color: #E1F3D7; border-radius: 10px")
+    LineaTiempoC.color-acento-contenido.p-4.mb-5(text-small style="background-color: #E1F3D7; border-radius: 10px" data-aos="fade-left")
       .row.col-xl-11.mx-auto(titulo="Época Neolítica")
         .col-xl-5
           figure
@@ -69,28 +69,29 @@
             br
             br
             | Las criptomonedas se encuentran descentralizadas, lo que significa que no están reguladas por los bancos centrales de cada país.
-    p.mb-5 Todo el concepto del dinero da respuesta a las necesidades de las personas para realizar sus transacciones como la compra o venta de bienes y servicios, pero también surge la necesidad de ahorrar y la inversión, por lo cual se crea el sistema financiero. 
+    p.mb-5(data-aos="fade-right") Todo el concepto del dinero da respuesta a las necesidades de las personas para realizar sus transacciones como la compra o venta de bienes y servicios, pero también surge la necesidad de ahorrar y la inversión, por lo cual se crea el sistema financiero. 
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.col-xl-8.mx-auto.bloque-texto-edit.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-6.jpg')})`}"
+        data-aos="fade-left"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 Se define al sistema financiero, como la conformación u organización de las instituciones financieras, los gobiernos, medios y mercados; que pretenden captar el dinero, que no es usado por las personas, por lo cual se emplea el ahorro, el cual es colocado a las personas que requieren realizar inversiones, mediante créditos.
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      .col-md-2.mx-auto.mb-4.mb-md-0
+      .col-md-2.mx-auto.mb-4.mb-md-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img-7.svg' style="max-width: 123px").mx-auto
-      .col-md-10
+      .col-md-10(data-aos="fade-left")
         p.mb-0 Colombia, se encuentra conformada en su sistema financiero, por los establecimientos de crédito, los cuales tienen dentro de sus funciones, la colocación de dinero, mediante el crédito, están conformados por los bancos, cooperativas de ahorro y financieras y compañías de financiamiento comercial. También se encuentran las entidades de servicios financieros y otras entidades financieras, como las fiduciarias. #[b(style="background-color: #E1F3D7; padding: .1rem") Todo el sistema financiero colombiano se encuentra regulado por la Superintendencia Financiera de Colombia (SFC).]
     Separador
     .titulo-segundo.color-acento-contenido
       h2#t_1_1 1.1  Estructura
     
-    p.mb-5 Cada uno de los sectores de la economía impulsan el crecimiento económico de un país a través de las unidades económicas, estas son:
+    p.mb-5(data-aos="fade-right") Cada uno de los sectores de la economía impulsan el crecimiento económico de un país a través de las unidades económicas, estas son:
 
     .d-flex.flex-wrap.mb-5.mx-auto.col-xl-10
-      .col-lg-6.mb-4.mb-xl-0.px-lg-2
+      .col-lg-6.mb-4.mb-xl-0.px-lg-2(data-aos="fade-right")
         .tarjeta.tarjeta-flip.w-100(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor(style="background-color: #FFEAD8; border-radius: 20px; min-height: 414px")
@@ -101,7 +102,7 @@
             .tarjeta-flip__contenido.d-flex.flex-wrap.align-content-center.justify-content-center.text-center.p-4.p-xl-5
               h3 Unidades económicas superativas
               p Son los recursos económicos (dinero) de las personas o empresas que tienen unos ingresos superiores a sus gastos, por lo cual obtienen un excedente de dinero que puede ser ahorrado.
-      .col-lg-6.mb-4.mb-xl-0.px-lg-2
+      .col-lg-6.mb-4.mb-xl-0.px-lg-2(data-aos="fade-left")
         .tarjeta.tarjeta-flip.w-100
           .tarjeta-flip__contenedor(style="background-color: #FFEAD8; border-radius: 20px; min-height: 414px")
             .tarjeta-flip__img(
@@ -112,42 +113,42 @@
               h3 Unidades económicas deficitarias
               p Corresponde a la falta de recursos económicos (dinero) de las personas o empresas, que tienen unos ingresos inferiores a sus gastos, por lo cual requieren del crédito para adquirir bienes y servicios. 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img(src='@/assets/curso/temas/tema1/img-10.jpg' style="max-width: 505px").mb-4.mb-xl-0.col-xl-5.mx-auto
-      p.mb-0.col-xl-7.ps-xl-4 Dadas estas unidades económicas superativas y deficitarias, el sistema financiero se encarga de canalizar estos recursos, como intermediario, donde las unidades económicas superativas, se ofrecen a las unidades económicas deficitarias, a cambio de una retribución que, generalmente es el pago de interés; este funcionamiento permite que se dé un uso eficiente del dinero, minimizando los riesgos asociados a los mismos, que si los individuos de forma particular realizarán estas operaciones de ahorro y crédito. 
+      img(src='@/assets/curso/temas/tema1/img-10.jpg' style="max-width: 505px" data-aos="fade-right").mb-4.mb-xl-0.col-xl-5.mx-auto
+      p.mb-0.col-xl-7.ps-xl-4(data-aos="fade-left") Dadas estas unidades económicas superativas y deficitarias, el sistema financiero se encarga de canalizar estos recursos, como intermediario, donde las unidades económicas superativas, se ofrecen a las unidades económicas deficitarias, a cambio de una retribución que, generalmente es el pago de interés; este funcionamiento permite que se dé un uso eficiente del dinero, minimizando los riesgos asociados a los mismos, que si los individuos de forma particular realizarán estas operaciones de ahorro y crédito. 
         br
         br
         | La estructura del sistema financiero en Colombia se encuentra compuesta por un conjunto de agentes que interactúan en el sistema, los cuales son las instituciones financieras y sus fondos administrados, vigilados por la Superintendencia Financiera de Colombia.
     
-    p.mb-5 Dentro de las instituciones financieras se encuentran los establecimientos de crédito, las sociedades de servicios financieros y otras entidades financieras, explicadas a continuación: 
+    p.mb-5(data-aos="fade-right") Dentro de las instituciones financieras se encuentran los establecimientos de crédito, las sociedades de servicios financieros y otras entidades financieras, explicadas a continuación: 
 
     .d-flex.flex-wrap.align-items-stretch.mb-5
-      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem")
+      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem" data-aos="fade-right")
         .tarjeta.p-4.p-lg-5.position-relative.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema1/img-11.svg' style="max-width: 350px;").banner-principal-decorativo-tj
           .d-block(style="margin-top: 8rem")
             h4.mb-4 Establecimientos de crédito
             p Captan recursos de las unidades económicas superativas, mediante el ahorro, que serán colocados en las unidades económicas deficitarias, mediante los préstamos y otras operaciones. 
 
-      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem")
+      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem" data-aos="fade")
         .tarjeta.p-4.p-lg-5.position-relative.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema1/img-12.svg' style="max-width: 350px;").banner-principal-decorativo-tj
           .d-block(style="margin-top: 8rem")
             h4.mb-4 Sociedades de servicios financieros
             p Prestan servicios del sector financiero, pero se encuentran especializadas en brindar asesoría financiera en la administración de los recursos.
 
-      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem")
+      .col-lg-6.col-xl-4.p-2.mx-auto(style="margin-top: 8rem" data-aos="fade-left")
         .tarjeta.p-4.p-lg-5.position-relative.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema1/img-13.svg' style="max-width: 350px;").banner-principal-decorativo-tj
           .d-block(style="margin-top: 8rem")
             h4.mb-4 Entidades encargadas del control y seguro de depósitos 
             p Como el Ministerio de Hacienda y Crédito Público, los fondos de garantías, la Superintendencia Financiera de Colombia y el Banco de la República. 
 
-    p.mb-5 El Estatuto Organizacional del Sistema Financiero Colombiano (Eosfco), está representado en los siguientes agentes:
+    p.mb-5(data-aos="fade-right") El Estatuto Organizacional del Sistema Financiero Colombiano (Eosfco), está representado en los siguientes agentes:
     .titulo-sexto.color-acento-contenido
       h5 Título de sexto nivel, 16pt
       span subtitulo
 
-    .table-responsive
+    .table-responsive(data-aos="fade-left")
       table.mb-5(style="min-width: 1044px")
         thead
           tr
@@ -224,15 +225,15 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2  Normativa
     
-    p.mb-5 Al hablar de la normatividad, para el sistema financiero en Colombia, se debe iniciar mencionando la pirámide de Hans Kelsen, en la cual se presenta el sistema jurídico en forma de pirámide, de acuerdo con el orden de importancia o supremacía, y en donde cada nivel tiene una relación vertical, entre las normas jurídicas, lo que significa que cada norma obtiene valor a partir de una norma superior. 
+    p.mb-5(data-aos="fade-right") Al hablar de la normatividad, para el sistema financiero en Colombia, se debe iniciar mencionando la pirámide de Hans Kelsen, en la cual se presenta el sistema jurídico en forma de pirámide, de acuerdo con el orden de importancia o supremacía, y en donde cada nivel tiene una relación vertical, entre las normas jurídicas, lo que significa que cada norma obtiene valor a partir de una norma superior. 
       br
       br
       | Según Kelsen existen tres niveles, los cuales se determinan así:
-    img(src='@/assets/curso/temas/tema1/img-14.svg' style="max-width: 820px;").col-xl-8.mx-auto.mb-5
+    img(src='@/assets/curso/temas/tema1/img-14.svg' style="max-width: 820px;" data-aos="fade-left").col-xl-8.mx-auto.mb-5
 
-    p.mb-5 La Constitución Política de Colombia, como norma fundamental, en el artículo 150, literal del numeral 19, establece:
+    p.mb-5(data-aos="fade-right") La Constitución Política de Colombia, como norma fundamental, en el artículo 150, literal del numeral 19, establece:
 
-    .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;")
+    .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;" data-aos="fade")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/ley.svg")
@@ -247,25 +248,25 @@
                 i.fas.fa-file-download
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img(src='@/assets/curso/temas/tema1/img-15.jpg' style="max-width: 295px;").col-md-3.mb-4.mb-md-0.mx-auto
-      p.col-md-9.ps-md-3.mb-0 La Superintendencia Financiera de Colombia (SFC), está adscrita al Ministerio de Hacienda y Crédito Público y como ya se ha mencionado, tiene la función de vigilancia y control, esta es una entidad con autonomía administrativa y financiera, cuenta con personería jurídica y patrimonio propio. Se creó la Superintendencia Bancaria de Colombia, mediante el Decreto 4327 del 2005, se fusiona en la Superintendencia de Valores y se modifica la estructura de la Superintendencia Financiera de Colombia, mediante el Decreto 710 de 2012.
+      img(src='@/assets/curso/temas/tema1/img-15.jpg' style="max-width: 295px;" data-aos="fade-right").col-md-3.mb-4.mb-md-0.mx-auto
+      p.col-md-9.ps-md-3.mb-0(data-aos="fade-left") La Superintendencia Financiera de Colombia (SFC), está adscrita al Ministerio de Hacienda y Crédito Público y como ya se ha mencionado, tiene la función de vigilancia y control, esta es una entidad con autonomía administrativa y financiera, cuenta con personería jurídica y patrimonio propio. Se creó la Superintendencia Bancaria de Colombia, mediante el Decreto 4327 del 2005, se fusiona en la Superintendencia de Valores y se modifica la estructura de la Superintendencia Financiera de Colombia, mediante el Decreto 710 de 2012.
     
-    p.mb-5 Por su parte, el Banco de la República es el emisor de la modela legal en Colombia, tiene como función la política monetaria, cambiaria y crediticia del país, por lo cual se encuentra estrechamente relacionado con el sistema financiero y dentro de sus funciones se encuentran:
+    p.mb-5(data-aos="fade-right") Por su parte, el Banco de la República es el emisor de la modela legal en Colombia, tiene como función la política monetaria, cambiaria y crediticia del país, por lo cual se encuentra estrechamente relacionado con el sistema financiero y dentro de sus funciones se encuentran:
 
     .d-flex.flex-wrap.align-items-center.col-xl-10.mb-5.mx-auto
-      .col-lg-6.d-flex.mb-4
+      .col-lg-6.d-flex.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img-decorador.svg' style="max-width: 85px; margin-right: -3rem;").position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #C2E8B0;")
           p.mb-0.ps-3 Crear los instrumentos de la política monetaria, cambiaria y crediticia
       
-      .col-lg-6.d-flex.mb-4
+      .col-lg-6.d-flex.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/img-decorador.svg' style="max-width: 85px; margin-right: -3rem;").ms-auto.position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #C2E8B0;")
           p.mb-0.ps-3 Contribuir a la estabilidad financiera del país.
 
-    p.mb-5 Y como se está hablando de normatividad, a continuación, se conocerán algunas de las leyes y decretos aplicables al sistema financiero:
+    p.mb-5(data-aos="fade-right") Y como se está hablando de normatividad, a continuación, se conocerán algunas de las leyes y decretos aplicables al sistema financiero:
 
-    .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;")
+    .tarjeta.color-acento-contenido.py-3.px-5.mb-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;" data-aos="fade")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/ley.svg")

@@ -8,22 +8,22 @@
       h1 Sistema de administración del riesgo
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-xl-5(src='@/assets/curso/temas/tema5/img-1.jpg' style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4 La gestión del riesgo o sistema de administración del riesgo está planteada para realizar una adecuada gestión de los riesgos inherentes a la operación de las organizaciones. La implementación de la gestión del riesgo permite identificar, medir, controlar y evaluar los posibles riesgos que pueden afectar la operación de las organizaciones con una correcta identificación de un posible evento no deseado, se puede inferir la probabilidad de que este evento ocurra, y en el caso de que ocurra como se mitiga; para que no afecte el correcto funcionamiento de las organizaciones.
+      img.col-xl-5(src='@/assets/curso/temas/tema5/img-1.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") La gestión del riesgo o sistema de administración del riesgo está planteada para realizar una adecuada gestión de los riesgos inherentes a la operación de las organizaciones. La implementación de la gestión del riesgo permite identificar, medir, controlar y evaluar los posibles riesgos que pueden afectar la operación de las organizaciones con una correcta identificación de un posible evento no deseado, se puede inferir la probabilidad de que este evento ocurra, y en el caso de que ocurra como se mitiga; para que no afecte el correcto funcionamiento de las organizaciones.
         br
         br
         | El sistema de gestión de riesgo se desarrolla bajo el esquema GRC (Governance, Risk Management and Compilance) y ERM (Enterprise Risk Managment).
     
-    p.mb-5 El esquema GRC se aplica a través de tres perspectivas gobernanza, administración del riesgo y el esquema ERM se aplica a través de la gestión del riesgo, estas dos líneas buscan la consecución de los objetivos de las organizaciones; sin embargo, la ERM se centra en la gestión de los riesgos.
+    p.mb-5(data-aos="fade-right") El esquema GRC se aplica a través de tres perspectivas gobernanza, administración del riesgo y el esquema ERM se aplica a través de la gestión del riesgo, estas dos líneas buscan la consecución de los objetivos de las organizaciones; sin embargo, la ERM se centra en la gestión de los riesgos.
 
     Separador 
 
     .titulo-segundo.color-acento-contenido
       h2#t_5_1 5.1 Tipos de riesgos
     
-    p.mb-5 En cuanto a los riesgos del mercado financiero encontramos: 
+    p.mb-5(data-aos="fade-right") En cuanto a los riesgos del mercado financiero encontramos: 
 
-    SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b")
+    SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-left")
       .d-flex.flex-wrap.align-items-center.col-xl-11.mx-auto
         .col-md-5.mb-4.mb-md-0
           h4 Riesgo crediticio
@@ -63,16 +63,16 @@
         .col-md-7
           figure
             img.ms-md-auto(src='@/assets/curso/temas/tema5/img-6.svg' style="max-width: 610px")
-    p.mb-5 A partir de estos riesgos se han generado los siguientes sistemas de gestión del riesgo:
+    p.mb-5(data-aos="fade-right") A partir de estos riesgos se han generado los siguientes sistemas de gestión del riesgo:
 
-    h3.mb-5 #[span.py-3(style="background-color: #FD963D") A-] Sistema de administración de riesgos de lavado de activos y financiación del terrorismo (Sarlaft)
+    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") A-] Sistema de administración de riesgos de lavado de activos y financiación del terrorismo (Sarlaft)
 
-    p.mb-5 Es obligatoriedad que las entidades vigiladas por la Superintendencia Financiera de Colombia, implementar el Sarlaft, como prevención al riesgo de lavado de activos y financiación del terrorismo; con la finalidad de evitar que dineros ilegales, ingreses a organizaciones legalmente constituidas, con la finalidad de dar apariencia de legalidad a estos dineros.
+    p.mb-5(data-aos="fade-right") Es obligatoriedad que las entidades vigiladas por la Superintendencia Financiera de Colombia, implementar el Sarlaft, como prevención al riesgo de lavado de activos y financiación del terrorismo; con la finalidad de evitar que dineros ilegales, ingreses a organizaciones legalmente constituidas, con la finalidad de dar apariencia de legalidad a estos dineros.
       br
       br
       | Los riesgos asociados al Sarlaft son:
     
-    .d-flex.flex-wrap.mb-5
+    .d-flex.flex-wrap.mb-5(data-aos="fade-left")
       .mb-4.tj-hover-color-2.mx-auto.col-lg-3.col-md-6.px-md-2
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
           <defs>
@@ -289,19 +289,19 @@
           h5.mb-3 Riesgos operativos:
           p presenta fallas en todo su proceso productivo, como paros, falta de recursos, entre otras dificultades para operar.
     
-    h3.mb-5 #[span.py-3(style="background-color: #FD963D") B-] Sistema de Administración de Riesgo Operativo (SARO)
-    p.mb-5 El Sistema de Administración de Riesgo Operativo, permite prevenir los riesgos operativos inherentes al ejercicio diario de las organizaciones, dentro de su funcionamiento y actividad económica.
-    h3.mb-5 #[span.py-3(style="background-color: #FD963D") C-] Sistema de Administración del Riesgo Crediticio (SARC)
-    p El Sistema de Administración del Riesgo Crediticio debe ser implementado por las entidades vigiladas por la superintendencia financiera de Colombia, en la se pretende prevenir el riesgo de incumplimiento el pago de los créditos. 
+    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") B-] Sistema de Administración de Riesgo Operativo (SARO)
+    p.mb-5(data-aos="fade-left") El Sistema de Administración de Riesgo Operativo, permite prevenir los riesgos operativos inherentes al ejercicio diario de las organizaciones, dentro de su funcionamiento y actividad económica.
+    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") C-] Sistema de Administración del Riesgo Crediticio (SARC)
+    p(data-aos="fade-left") El Sistema de Administración del Riesgo Crediticio debe ser implementado por las entidades vigiladas por la superintendencia financiera de Colombia, en la se pretende prevenir el riesgo de incumplimiento el pago de los créditos. 
 
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_5_2 5.2  Normatividad del sistema de administración del riesgo 
     
-    p.mb-5 La norma internacional ISO 31000 se basa en la gestión del riesgo, para ser implementada en las organizaciones, independiente se sector económico en el que se desempeña. La norma ISO 31000 se fundamenta en los siguientes principios:
+    p.mb-5(data-aos="fade-right") La norma internacional ISO 31000 se basa en la gestión del riesgo, para ser implementada en las organizaciones, independiente se sector económico en el que se desempeña. La norma ISO 31000 se fundamenta en los siguientes principios:
     h4.text-center.mb-5(style="color: #FC8116") Principios del sistema de administración del riesgo
-    ImagenInfografica.color-secundario.mb-5.col-xl-6.mx-auto.img-infografica-edit
+    ImagenInfografica.color-secundario.mb-5.col-xl-6.mx-auto.img-infografica-edit(data-aos="fade")
       template(v-slot:imagen)
         <svg xmlns="http://www.w3.org/2000/svg" width="610" height="610" viewBox="0 0 610 610">
           <g id="Grupo_93992" data-name="Grupo 93992" transform="translate(-495 -2977)">
@@ -394,14 +394,14 @@
     .titulo-segundo.color-acento-contenido
       h2#t_5_3 5.3  Alertas en el sistema de administración del riesgo
     
-    p.mb-5 La implementación de alertas en el sistema de gestión del riesgo permite identificar los posibles riesgos, a los cuales se pueden enfrentar las organizaciones, como lo son los riesgos operacionales, riesgos crediticios, riesgos de lavado de activo y financiación del terrorismo.
+    p.mb-5(data-aos="fade-right") La implementación de alertas en el sistema de gestión del riesgo permite identificar los posibles riesgos, a los cuales se pueden enfrentar las organizaciones, como lo son los riesgos operacionales, riesgos crediticios, riesgos de lavado de activo y financiación del terrorismo.
       br
       br
       | Cada organización debe de implementar las herramientas idóneas que permitan identificar los riesgos. Algunas de las principales alertas son:
     
     .d-flex.flex-wrap.mb-5.p-4(style="background-color: #FFEAD8")
-      img(src='@/assets/curso/temas/tema5/img-7.svg' style="max-width: 341px;").ms-auto
-      .d-flex.align-items-center.col-xl-5.mx-auto
+      img(src='@/assets/curso/temas/tema5/img-7.svg' data-aos="fade-right" style="max-width: 341px;").ms-auto
+      .d-flex.align-items-center.col-xl-5.mx-auto(data-aos="fade-left")
         ul.lista-ul--color.mb-0
           li
             .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")

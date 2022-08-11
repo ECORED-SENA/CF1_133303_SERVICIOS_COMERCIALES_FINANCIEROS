@@ -7,29 +7,29 @@
         span 3
       h1 El consumidor financiero
 
-    p Al conceptualizar al consumidor financiero, se debe iniciar por definir quién es el cliente, el cual también puede ser llamado comprador, usuario o consumidor; el cliente es una persona, empresa o entidad que adquiere un producto o servicio, para su consumo; estos productos o servicios dan respuesta o solución a una necesidad.
+    p(data-aos="fade-right") Al conceptualizar al consumidor financiero, se debe iniciar por definir quién es el cliente, el cual también puede ser llamado comprador, usuario o consumidor; el cliente es una persona, empresa o entidad que adquiere un producto o servicio, para su consumo; estos productos o servicios dan respuesta o solución a una necesidad.
 
-    p.mb-5 La denominación que se da al cliente, en general depende del sector que ofrece los productos o servicios; en el caso concreto, el sector financiero denomina a su cliente como consumidor financiero, quien es la persona natural o jurídica que adquiere sus productos o servicios; dependerá de la necesidad de cada consumidor la elección que realizará del portafolio de productos financieros; por lo cual es indispensables realizar un correcto análisis del consumidor, para poder dar una respuesta satisfactoria a sus necesidades.
+    p.mb-5(data-aos="fade-right") La denominación que se da al cliente, en general depende del sector que ofrece los productos o servicios; en el caso concreto, el sector financiero denomina a su cliente como consumidor financiero, quien es la persona natural o jurídica que adquiere sus productos o servicios; dependerá de la necesidad de cada consumidor la elección que realizará del portafolio de productos financieros; por lo cual es indispensables realizar un correcto análisis del consumidor, para poder dar una respuesta satisfactoria a sus necesidades.
 
     .d-flex.flex-wrap.align-items-center.col-xl-8.p-4.mx-auto.bg-texto-img
       .col-xl-4.mx-auto.mb-4.mb-xl-0
-        img(src='@/assets/curso/temas/tema3/img-1.png' style="max-width: 294px;").ms-auto
-      p.fw-bold.col-xl-8.mb-0.p-3 La Ley 1328 de 2009, título I, capítulo I; define al consumidor financiero como todo cliente, usuario o cliente potencial de las entidades vigiladas.
+        img(src='@/assets/curso/temas/tema3/img-1.png' data-aos="fade-right" style="max-width: 294px;").ms-auto
+      p.fw-bold.col-xl-8.mb-0.p-3(data-aos="fade-left") La Ley 1328 de 2009, título I, capítulo I; define al consumidor financiero como todo cliente, usuario o cliente potencial de las entidades vigiladas.
 
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_3_1 3.1 Tipos de consumidores
     
-    p.mb-5 Es de gran importancia reconocer los tipos de consumidores que buscan satisfacer sus necesidades en el sector financiero, los cuales se pueden clasificar en dos grandes grupos: la persona natural y la persona jurídica; cada una con una naturaleza jurídica, comportamientos, localización, gustos y necesidades distintas, las cuales deben de ser claramente identificadas, con la finalidad de crear unos canales de comercialización adecuados, efectivos y eficaces. Conozca a continuación un poco más sobre estos dos tipos de consumidores:
+    p.mb-5(data-aos="fade-right") Es de gran importancia reconocer los tipos de consumidores que buscan satisfacer sus necesidades en el sector financiero, los cuales se pueden clasificar en dos grandes grupos: la persona natural y la persona jurídica; cada una con una naturaleza jurídica, comportamientos, localización, gustos y necesidades distintas, las cuales deben de ser claramente identificadas, con la finalidad de crear unos canales de comercialización adecuados, efectivos y eficaces. Conozca a continuación un poco más sobre estos dos tipos de consumidores:
 
     .d-flex.flex-wrap.align-items-stretch
-      .col-xl-6.p-2
+      .col-xl-6.p-2(data-aos="fade-right")
         .tarjeta.p-4.h-100(style="background-color: #FED5B1")
           img(src='@/assets/curso/temas/tema3/img-2.png').mb-3
           p.fw-bold.mb-3 La persona natural
           p Se puede definir como la #[b persona que a nombre propio ejerce una actividad económica], en el caso de Colombia se registra ante el Registro Único Tributario (RUT), como persona natural y se le asigna los códigos CIIU de acuerdo con la actividad económica que ejerce. La persona natural es la responsable de las obligaciones adquiridas con terceros.
-      .col-xl-6.p-2
+      .col-xl-6.p-2(data-aos="fade-left")
         .tarjeta.p-4.h-100(style="background-color: #FEEFBF")
           img(src='@/assets/curso/temas/tema3/img-3.png').mb-3
           p.fw-bold.mb-3 La persona jurídica
@@ -39,50 +39,50 @@
     .titulo-segundo.color-acento-contenido
       h2#t_3_2 3.2  Características del consumidor financiero
 
-    p.mb-5 A parte de su procedencia jurídica, se puede clasificar a los consumidores en dos (2) categorías:
+    p.mb-5(data-aos="fade-right") A parte de su procedencia jurídica, se puede clasificar a los consumidores en dos (2) categorías:
 
     .d-flex.flex-wrap.align-items-center.col-xl-10.mb-5.mx-auto
-      .col-lg-6.d-flex.mb-4.pe-lg-4
+      .col-lg-6.d-flex.mb-4.pe-lg-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema3/img-4.svg' style="max-width: 85px; margin-right: -3rem;").position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #85D161;")
           p.mb-0.ps-3 #[b El consumidor actual:]
             br
             | quien en la actualidad consume los productos y servicios.
-      .col-lg-6.d-flex.mb-4.ps-lg-4
+      .col-lg-6.d-flex.mb-4.ps-lg-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema3/img-5.svg' style="max-width: 85px; margin-right: -3rem;").ms-auto.position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #FDE07E;")
           p.mb-0.ps-3 #[b El consumidor potencial:]
             br
             | es un cliente potencial, puede ser un posible comprador de los productos y servicios.
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 5
       span Tipos de consumidor
 
-    img(src='@/assets/curso/temas/tema3/img-6.svg').mb-5
+    img(src='@/assets/curso/temas/tema3/img-6.svg' data-aos="fade-right").mb-5
 
-    p.mb-5 El consumidor financiero, sea persona natural o jurídica, consumidor activo o potencial, poseen unas características, que deben ser tomadas en cuenta previamente por parte de los servicios financieros, en las estrategias de marketing. De los procesos de asesoría brindados por parte del asesor financiero, depende el éxito de la venta de los productos y la creación de valor de marca. 
+    p.mb-5(data-aos="fade-right") El consumidor financiero, sea persona natural o jurídica, consumidor activo o potencial, poseen unas características, que deben ser tomadas en cuenta previamente por parte de los servicios financieros, en las estrategias de marketing. De los procesos de asesoría brindados por parte del asesor financiero, depende el éxito de la venta de los productos y la creación de valor de marca. 
       br
       br
       | Las características de los consumidores pueden ser cualitativas y cuantitativas, las cuales se deben identificar de una forma correcta y de esta forma poder dirigir las estrategias de producto, precio, plaza y promoción, dentro del sistema financiero; lo que permitirá posicionar la marca de la entidad u organización y crear una fidelización del cliente. A continuación, se conocerá un poco de ellas:
 
     .d-flex.flex-wrap.align-items-stretch.mb-5
-      .col-xl-6.p-2
+      .col-xl-6.p-2(data-aos="fade-right")
         .tarjeta.p-4.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema3/img-7.png').mb-3
           p.fw-bold.mb-3 Características cuantitativas 
           p Se identifican las características que pueden ser cuantificables como #[b edad, ingresos mensuales o anuales, activos, pasivos y patrimonio, las inversiones que realiza, entre otros], estas características deben de ser medibles.
-      .col-xl-6.p-2
+      .col-xl-6.p-2(data-aos="fade-right")
         .tarjeta.p-4.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema3/img-8.png').mb-3
           p.fw-bold.mb-3 Características cualitativas
           p Son cualidades como el #[b sexo, estado civil, situación financiera, religión, profesión, gusto entre otros;] que permiten identificar la orientación del cliente; estas son muy importantes de conocer, pues permiten identificar las preferencias a la hora de decidir en adquirir un producto o servicio.
-    p.mb-5 En el proceso se debe identificar el perfil del consumidor, esto permitirá construir y dirigir las estrategias de venta de una forma adecuada que permitan, tener acceso al cliente y lograr el fin último, el cual es crear una fidelidad hacia la entidad, la organización o la marca, el conocimiento del perfil del consumidor se ha estudiado por la Psicología y más propiamente por el neuromarketing.
+    p.mb-5(data-aos="fade-right") En el proceso se debe identificar el perfil del consumidor, esto permitirá construir y dirigir las estrategias de venta de una forma adecuada que permitan, tener acceso al cliente y lograr el fin último, el cual es crear una fidelidad hacia la entidad, la organización o la marca, el conocimiento del perfil del consumidor se ha estudiado por la Psicología y más propiamente por el neuromarketing.
       br
       br
       |Los consumidores poseen unos caracteres definidos de las cuales los impulsan a adquirir un producto o servicio, los cuales se clasifican en un amplio grupo de once consumidores: 
 
-    SlyderA.slider-a-edit.mb-5
+    SlyderA.slider-a-edit.mb-5(data-aos="fade-left")
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-9.jpg')})`}")
         .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor e-commerce:] prefiere adquirir productos o servicios a través del ecommerce, por facilidad y comodidad.
@@ -127,12 +127,12 @@
         .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor optimista:] el adquirir un producto o servicio se basa en la calidad y lo que le aporta a su bienestar, sin importar el precio.
 
-    p.mb-5 En cuanto al consumidor bancario, investigadores del Colegio de Estudios Superiores de Administración (CESA), junto con investigadores de la Universidad Javeriana y Universidad del Valle, identificaron cuatro perfiles.
+    p.mb-5(data-aos="fade-right") En cuanto al consumidor bancario, investigadores del Colegio de Estudios Superiores de Administración (CESA), junto con investigadores de la Universidad Javeriana y Universidad del Valle, identificaron cuatro perfiles.
       br
       br
       | Los cuatro perfiles de clientes bancarios que dan valor a las marcas son los co-creadores de marca, los no co-creadores, los escépticos y los neutrales. ¿Qué los caracteriza?, veamos:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       .col-lg-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false" style="min-height: 428px; background-color: #FED5B1; max-width: 300px")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -169,8 +169,8 @@
       h2#t_3_3 3.3  Categorías de los consumidores financieros
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-xl-5(src='@/assets/curso/temas/tema3/img-24.png' style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4 En la segmentación de los mercados es de vital importancia, categorizar a los consumidores de acuerdo con los canales o medios de consumos, es decir, si lo hace de manera presencial, en tiendas o establecimientos físicos o por el contrario prefiere adquirir productos y servicios on line. 
+      img.col-xl-5(src='@/assets/curso/temas/tema3/img-24.png' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") En la segmentación de los mercados es de vital importancia, categorizar a los consumidores de acuerdo con los canales o medios de consumos, es decir, si lo hace de manera presencial, en tiendas o establecimientos físicos o por el contrario prefiere adquirir productos y servicios on line. 
         br
         br
         | En este segmento se distingue el consumidor tradicional y el consumidor digital, por su parte el consumidor tradicional es el consumidor fiel a una empresa, organización o marca, es difícil de influir en él, y se dirigen a las tiendas o establecimientos físicos.
@@ -178,11 +178,11 @@
         br
         | Los consumidores digitales son personas que se encuentran hiperconectadas, tienen un rango de edad entre 30 a 45 años, cuentan con estabilidad económica y habitan en las urbes; estos consumidores se mantienen muy informados.
 
-    p.mb-5 Sin embargo, a través de estudios, también se ha identificado que estas características van relacionadas con las generaciones así:
+    p.mb-5(data-aos="fade-right") Sin embargo, a través de estudios, también se ha identificado que estas características van relacionadas con las generaciones así:
 
     h3.text-center.mb-5 Características generacionales
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(style="border-radius: 0; min-height: 428px; background-color: #C2E8B0;")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.text-center
@@ -219,7 +219,7 @@
             p #[b La generación alpha:] la generación que ha nacido entre los años 2010 y a la actualidad, nacieron y viven en la era digital, la nueva revolución de la energética, los nuevos medios de movilidad a partir de la electricidad, y la mayor preocupación para esta generación es la sostenibilidad y el cambio climático. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-30.jpg')})`}")
 
-    p Al caracterizar cada uno de los clientes, permite a las organizaciones establecer mejoras en las políticas de servicio al cliente, debido a que cada persona tiene unas características definidas, principalmente en los medios de comunicación; lo que permitirá que se ofrezca un servicio al cliente personalizado, con la finalidad de fidelizar.
+    p(data-aos="fade-right") Al caracterizar cada uno de los clientes, permite a las organizaciones establecer mejoras en las políticas de servicio al cliente, debido a que cada persona tiene unas características definidas, principalmente en los medios de comunicación; lo que permitirá que se ofrezca un servicio al cliente personalizado, con la finalidad de fidelizar.
       br
       br
       |#[b Se identifica que las generaciones de la posguerra, baby boomers y generación x, prefieren los canales tradicionales, por lo cual son las personas que acudirán a las entidades del sistema financiero.]

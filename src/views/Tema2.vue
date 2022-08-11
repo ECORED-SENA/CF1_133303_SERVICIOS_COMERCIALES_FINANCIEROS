@@ -7,16 +7,16 @@
         span 2
       h1 #[em Marketing] (concepto e historia)
 
-    p.mb-5.mb-xl-0 La palabra #[em marketing] es un término en inglés, que se traduce como mercadología, mercadeo o mercadotecnia y comúnmente se piensa que este es #[b publicidad], pero este tan solo es una de las estrategias, para llegar a un público objetivo, donde se deben estudiar las necesidades de los clientes, las estrategias que se deben tomar, las cuales van desde la creación de un producto y un servicio requerido, además de la eficiencia y eficacia en la producción, la logística, los canales de distribución, el servicio de venta y posventa. 
+    p.mb-5.mb-xl-0(data-aos="fade-right") La palabra #[em marketing] es un término en inglés, que se traduce como mercadología, mercadeo o mercadotecnia y comúnmente se piensa que este es #[b publicidad], pero este tan solo es una de las estrategias, para llegar a un público objetivo, donde se deben estudiar las necesidades de los clientes, las estrategias que se deben tomar, las cuales van desde la creación de un producto y un servicio requerido, además de la eficiencia y eficacia en la producción, la logística, los canales de distribución, el servicio de venta y posventa. 
 
     .d-flex.flex-wrap.align-items-center.mb-3.col-xl-10.p-4.mx-auto.bg-texto-img
-      .col-xl-4.mx-auto.mb-4.mb-xl-0
+      .col-xl-4.mx-auto.mb-4.mb-xl-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-1.png' style="max-width: 295px;").ms-auto
-      p.col-xl-8.mb-0.p-3 Por ello, se puede definir el marketing como el conjunto de actividades y estrategias, que implementan las organizaciones, para crear y comunicar valor de marca, logrando la fidelización de los clientes; a partir del estudio y análisis de las necesidades y comportamiento de los clientes, como de los mercados. 
+      p.col-xl-8.mb-0.p-3(data-aos="fade-left") Por ello, se puede definir el marketing como el conjunto de actividades y estrategias, que implementan las organizaciones, para crear y comunicar valor de marca, logrando la fidelización de los clientes; a partir del estudio y análisis de las necesidades y comportamiento de los clientes, como de los mercados. 
 
-    p.mb-5 En cuanto a los principales objetivos del marketing se encuentran: 
+    p.mb-5(data-aos="fade-right") En cuanto a los principales objetivos del marketing se encuentran: 
 
-    .d-flex.flex-wrap.mb-5
+    .d-flex.flex-wrap.mb-5(data-aos="fade-left")
       .mb-4.tj-hover-color.mx-auto
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
           <defs>
@@ -264,14 +264,14 @@
         .tarjeta.p-4(style="background-color: #E1F3D7; padding-top: 5rem !important")
           h5.mb-0 Posicionamiento de marca
 
-    p.mb-5 Al iniciar los estudios de las necesidades de las personas y sus deseos a satisfacer, se debe realizar la segmentación del mercado e identificar el nicho de mercado (de este tema se hablará más adelante); esta permite agrupar los clientes potenciales en grupos de acuerdo a su ubicación geográfica, a la demografía (edad, sexo), por grupo socioeconómico (nivel de ingresos), según las características psicológicas, y comportamentales (beneficio del comprador, intención de compra); por su parte el nicho de mercado se encuentra inmerso en cada segmento del mercado, mediante grupos más reducidos.
+    p.mb-5(data-aos="fade-right") Al iniciar los estudios de las necesidades de las personas y sus deseos a satisfacer, se debe realizar la segmentación del mercado e identificar el nicho de mercado (de este tema se hablará más adelante); esta permite agrupar los clientes potenciales en grupos de acuerdo a su ubicación geográfica, a la demografía (edad, sexo), por grupo socioeconómico (nivel de ingresos), según las características psicológicas, y comportamentales (beneficio del comprador, intención de compra); por su parte el nicho de mercado se encuentra inmerso en cada segmento del mercado, mediante grupos más reducidos.
 
     h3.mb-5 Historia del marketing
-    p En primera instancia, estos son los personajes representativos del marketing y sus aportes:
+    p(data-aos="fade-left") En primera instancia, estos son los personajes representativos del marketing y sus aportes:
 
     .d-flex.flex-wrap.mb-5
-      img(src='@/assets/curso/temas/tema2/img-2.svg' style="max-width: 295px;").d-none.d-xl-flex.col-xl-4.mx-auto
-      .col-xl-8
+      img(src='@/assets/curso/temas/tema2/img-2.svg' data-aos="fade-right" style="max-width: 295px;").d-none.d-xl-flex.col-xl-4.mx-auto
+      .col-xl-8(data-aos="fade-left")
         AcordionA.acordeon-t2.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.mx-auto(titulo="Término marketing")
             .col-md-6
@@ -293,12 +293,12 @@
                 img(src='@/assets/curso/temas/tema2/img-5.png')
             .col-md-6.mb-4.mb-md-0
               p #[b Philip Kotler], considerado el #[b padre del marketing] moderno, debido a sus aportes de las 4 P (producto, precio, plaza y promoción), también es reconocido por su asesoría en empresas como IBM y Bank of America. 
-    p.mb-5 El marketing, a través de la historia, ha pasado por cuatro etapas o fases, las cuales han evolucionado de acuerdo a los cambios de las necesidades de las personas, los medios de producción y las nuevas tecnologías de las comunicaciones y la información. 
+    p.mb-5(data-aos="fade-right") El marketing, a través de la historia, ha pasado por cuatro etapas o fases, las cuales han evolucionado de acuerdo a los cambios de las necesidades de las personas, los medios de producción y las nuevas tecnologías de las comunicaciones y la información. 
       br
       br
       | Sabiendo esto, es preciso conocer la evolución del Marketing:
     
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-10.mx-auto.mb-5(data-aos="fade-right")
       LineaTiempoD.color-primario.linea-tiempo-edit
         .row(numero="1" titulo="Marketing 1.0  Orientado al producto (1890-1959)")
           .col-md-7.mb-4.mb-md-0
@@ -352,10 +352,10 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_1 2.1 Características del #[em marketing]
     
-    p.mb-5 Las estrategias de marketing permiten lograr un beneficio mutuo, tanto para las organizaciones como para los consumidores, por ello, este posee unas características específicas para alcanzar estos beneficios.
+    p.mb-5(data-aos="fade-left") Las estrategias de marketing permiten lograr un beneficio mutuo, tanto para las organizaciones como para los consumidores, por ello, este posee unas características específicas para alcanzar estos beneficios.
 
     .tarjeta-edit-bg.mb-5
-      .col-xl-6.d-flex.pt-3.order-2.order-xl-1.mx-auto
+      .col-xl-6.d-flex.pt-3.order-2.order-xl-1.mx-auto(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-6.svg' style="max-width: 43px")
         .col.ps-4.d-flex.flex-wrap.align-content-center
           h4.w-100 Características del marketing:
@@ -382,10 +382,10 @@
               .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
               | Posicionamiento de marca.
       .col-xl-6.order-1.order-xl-2.mx-auto.mb-4.mb-xl-0
-        img(src='@/assets/curso/temas/tema2/img-7.png')
-    p.mb-5 Estas características son en general para todas las estrategias del Marketing, pero existen unas estrategias intrínsecas a cada estrategia del marketing, de las cuales se conocen cuatro: 
+        img(src='@/assets/curso/temas/tema2/img-7.png' data-aos="fade-left")
+    p.mb-5(data-aos="fade-right") Estas características son en general para todas las estrategias del Marketing, pero existen unas estrategias intrínsecas a cada estrategia del marketing, de las cuales se conocen cuatro: 
 
-    SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b")
+    SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-right")
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-md-5.mb-4.mb-md-0
           h4 Estrategia de las #[span(style="color: #FC8116") 4 P] del marketing o marketing mix 
@@ -443,21 +443,21 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_2 2.2  Ciclo de vida del producto o servicio
     
-    p.mb-5 Un producto o servicio, se encuentra diseñado por las organizaciones para satisfacer las necesidades de sus clientes; por lo general los productos son tangibles y los servicios son intangibles; pero su fin es satisfacer una necesidad. 
+    p.mb-5(data-aos="fade-right") Un producto o servicio, se encuentra diseñado por las organizaciones para satisfacer las necesidades de sus clientes; por lo general los productos son tangibles y los servicios son intangibles; pero su fin es satisfacer una necesidad. 
 
     .d-flex.flex-wrap.p-4.px-xl-0.mb-5(style="background-color: #FFEAD8")
-      .col-xl-4.ms-xl-auto
+      .col-xl-4.ms-xl-auto(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-12.svg' style="max-width: 187px").mb-4
         h4.mb-4(style="color: #FC8116") El ciclo de vida de un producto
         p El ciclo de vida se encuentra compuesto por cinco etapas o fases, las cuales son #[b desarrollo, introducción, crecimiento, madurez y declive.]
-      .col-xl-6.ps-xl-4.me-xl-auto
+      .col-xl-6.ps-xl-4.me-xl-auto(data-aos="fade-left")
         img.mb-3(src='@/assets/curso/temas/tema2/img-13.svg' style="max-width: 630px")
         .titulo-sexto.color-acento-contenido
           h5 Figura 3
           span Ciclo de vida del producto o servicio
-    p.mb-5 Tanto los productos o servicios cumplen un ciclo en el mercado, el cual va desde su lanzamiento o desarrollo hasta su declive, por lo cual es indispensable comprender la teoría del ciclo de vida del producto, creando estrategias por parte de las organizaciones, en cada una de sus etapas o fases, así:
+    p.mb-5(data-aos="fade-right") Tanto los productos o servicios cumplen un ciclo en el mercado, el cual va desde su lanzamiento o desarrollo hasta su declive, por lo cual es indispensable comprender la teoría del ciclo de vida del producto, creando estrategias por parte de las organizaciones, en cada una de sus etapas o fases, así:
 
-    .p-4.pb-xl-5.px-xl-0(style="background-color: #FFF7DF")
+    .p-4.pb-xl-5.px-xl-0(style="background-color: #FFF7DF" data-aos="fade")
       img.titulo-edit(src='@/assets/curso/temas/tema2/titulo-edit.svg')
       ImagenInfografica.color-acento-contenido.col-xl-10.mx-auto.img-infografica-edit
         template(v-slot:imagen)
@@ -505,18 +505,18 @@
       h2#t_2_3 2.3  Tipo de productos o servicios financieros
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-xl-5(src='@/assets/curso/temas/tema2/img-15.jpg' style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4 Los productos financieros están creados como #[b instrumentos que permiten a las personas naturales o personas jurídicas, realizar diferentes operaciones como ahorrar e invertir;] estos productos son intangibles, los cuales se encuentran respaldados por un contrato. 
+      img.col-xl-5(src='@/assets/curso/temas/tema2/img-15.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Los productos financieros están creados como #[b instrumentos que permiten a las personas naturales o personas jurídicas, realizar diferentes operaciones como ahorrar e invertir;] estos productos son intangibles, los cuales se encuentran respaldados por un contrato. 
         br
         br
         | #[b La Ley 1328 de 2009, título I, capítulo I;] define productos y servicios financieros a lo que se entiende por productos las operaciones legalmente autorizadas que se instrumentan en un contrato celebrado con el cliente o que tienen origen en la ley. Se entiende por servicios aquellas actividades conexas al desarrollo de las correspondientes operaciones y que se suministran a los consumidores financieros. al consumidor financiero como todo cliente, usuario o cliente potencial de las entidades vigiladas.
     
-    p.mb-5 Dentro de los productos financieros ofrecidos se encuentran:
+    p.mb-5(data-aos="fade-right") Dentro de los productos financieros ofrecidos se encuentran:
 
     .tarjeta-edit-bg.mb-5
-      .col-xl-6.mx-auto.mb-4.mb-xl-0.pt-4
+      .col-xl-6.mx-auto.mb-4.mb-xl-0.pt-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-16.png')
-      .col-xl-6.d-flex.mx-auto
+      .col-xl-6.d-flex.mx-auto(data-aos="fade-left")
         .col.ps-4.d-flex.flex-wrap.align-content-center
           ul.mb-0.lista-ul--color
             li
@@ -544,19 +544,19 @@
 
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      .order-2.order-lg-1.col-lg-9.col-xl-10.pe-xl-4
+      .order-2.order-lg-1.col-lg-9.col-xl-10.pe-xl-4(data-aos="fade-right")
         p.mb-4 Existen otros productos que pueden ser ofrecidos por diferentes entidades financieras, como corredores de bolsa, los cuales brindan servicios de investigación de mercados, en los cuales puede realizar inversiones en acciones y valores; otras entidades que ofrecen servicios financieros son proveedores de seguros y aseguradoras, entidades del Estado a través del Banco de la República, como son la #[b emisión de bonos del tesoro, las franquicias de tarjetas de crédito, los fondos de pensiones y cesantías, y las fiduciarias.]
         p.mb-0 Las entidades financieras también ofrecen servicios de pagos y retiros, lo cuales emplean medios como oficinas principales, bancas digitales y nuevas estrategia, para estar más cerca del consumidor, como son los conocidos #[b Puntos de Atención Cercanos (PAC);] los cuales se encuentran en tiendas, droguerías, panaderías, supermercados, papelerías; entre otros establecimientos. 
-      img.order-1.order-lg-2.col-lg-3.col-xl-2.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/banco.svg' style="max-width: 190px")
+      img.order-1.order-lg-2.col-lg-3.col-xl-2.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/banco.svg' data-aos="fade-left" style="max-width: 190px")
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-xl-5(src='@/assets/curso/temas/tema2/img-18.jpg' style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4 Los productos financieros ofrecen beneficios y ventajas, como seguridad del dinero, el riesgo asociado a las operaciones es asumido por las entidades financieras, debido a que el riesgo que se encuentra intrínseco en el pago o cobro de interés permite que las personas tengas un historial crediticio, acceso ágil a los recursos, genera control sobre las finanzas e inversiones.
+      img.col-xl-5(src='@/assets/curso/temas/tema2/img-18.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Los productos financieros ofrecen beneficios y ventajas, como seguridad del dinero, el riesgo asociado a las operaciones es asumido por las entidades financieras, debido a que el riesgo que se encuentra intrínseco en el pago o cobro de interés permite que las personas tengas un historial crediticio, acceso ágil a los recursos, genera control sobre las finanzas e inversiones.
         br
         br
         | #[b La Ley 1328 de 2009,] por medio de la cual se dictan normas en materia financiera, de seguros, del mercado de valores y otras disposiciones, regula los productos y servicios financieros, a través del régimen de protección al consumidor financiero, en el cual se establecen los derechos y deberes, los sistemas de atención al consumidor financiero, la información al consumidor financiero, la defensoría al consumidor financiero, el régimen sancionatorio, las facultades de intervención del gobierno, la estructura del sistema financiero, los fondos de garantías; entre otros aspectos del sector financiero, los productos y los consumidores.
 
-    .tarjeta.color-acento-contenido.py-3.px-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;")
+    .tarjeta.color-acento-contenido.py-3.px-5(style="border-radius: 0; margin-left: -3rem; margin-right: -3rem;" data-aos="fade")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/ley.svg")
@@ -576,34 +576,34 @@
       h2#t_2_4 2.4  Segmentación del mercado financiero 
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      p.col-xl-7.mb-0.pe-xl-4.order-2.order-xl-1 Las organizaciones deben de realizar estudios de mercados, que permitan identificar las necesidades de los clientes, por ello surge la necesidad de realizar una correcta segmentación de los mercados, la cual permite dividir los mercados en grupos homogéneos, con unas características y particularidades similares, entre ellos. 
+      p.col-xl-7.mb-0.pe-xl-4.order-2.order-xl-1(data-aos="fade-right") Las organizaciones deben de realizar estudios de mercados, que permitan identificar las necesidades de los clientes, por ello surge la necesidad de realizar una correcta segmentación de los mercados, la cual permite dividir los mercados en grupos homogéneos, con unas características y particularidades similares, entre ellos. 
         br
         br
         | La segmentación del mercado tiene como objetivo, reconocer las características de los consumidores financieros, diseñando productos y servicios acorde a las necesidades de sus clientes, logrando la satisfacción y fidelización de estos. Permitiendo además que las estrategias de marketing sean eficientes y eficaces para las organizaciones, presentando productos y servicios financieros acordes, precios relacionados con el mercado, los lugares donde son requeridos y los medios de divulgación o promoción. 
-      img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-0(src='@/assets/curso/temas/tema2/img-18.jpg' style="max-width: 505px")
+      img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-0(src='@/assets/curso/temas/tema2/img-18.jpg' data-aos="fade-left" style="max-width: 505px")
 
-    p.mb-5 Las principales características de la segmentación de los mercados financieros son:
+    p.mb-5(data-aos="fade-right") Las principales características de la segmentación de los mercados financieros son:
 
     .d-flex.flex-wrap.mb-5
-      .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4
+      .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade-right")
         img.position-relative(src='@/assets/curso/temas/tema2/img-19.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
           p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras
 
-      .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4
+      .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade")
         img.position-relative(src='@/assets/curso/temas/tema2/img-20.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
           p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras
       
-      .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4
+      .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade-left")
         img.position-relative(src='@/assets/curso/temas/tema2/img-21.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
           p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras
 
-    p.mb-5 En el mercado financiero también se han identificado diferentes tipos de segmentos, a saber:
+    p.mb-5(data-aos="fade-right") En el mercado financiero también se han identificado diferentes tipos de segmentos, a saber:
 
     .d-flex.flex-wrap.mb-5
-      .col-xl-8
+      .col-xl-8(data-aos="fade-right")
         AcordionA.acordeon-t2.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.mx-auto(titulo="Segmentación geográfica")
             .col-md-6.mb-4.mb-md-0
@@ -625,18 +625,18 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img-25.svg')
-      img(src='@/assets/curso/temas/tema2/img-22.svg' style="max-width: 295px;").d-none.d-xl-flex.col-xl-4.mx-auto
-    p.mb-5 A la hora de realizar una segmentación en el mercado financiero de debe seguir tres etapas: 
+      img(src='@/assets/curso/temas/tema2/img-22.svg' data-aos="fade-left" style="max-width: 295px;").d-none.d-xl-flex.col-xl-4.mx-auto
+    p.mb-5(data-aos="fade-right") A la hora de realizar una segmentación en el mercado financiero de debe seguir tres etapas: 
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 4
       span Etapas segmentación del mercado financiero 
     .pb-md-4
 
     .p-4.mt-5.mb-5(style="background-color: #FFEAD8")
-      img(src='@/assets/curso/temas/tema2/img-26.svg' style="margin-top: -70px; max-width: 650px").d-none.d-md-flex.mx-auto
-      img(src='@/assets/curso/temas/tema2/img-26-movil.svg').d-flex.d-md-none
-      p.pt-md-4.col-xl-10.mx-auto En la etapa de #[b investigación], se realiza recopilación de información del mercado objetivo para la organización, se indaga sobre las características geográficas, demográficas, psicosociales, económicas, entre otras variables que la organización considera relevantes. 
+      img(src='@/assets/curso/temas/tema2/img-26.svg' data-aos="fade-right" style="margin-top: -70px; max-width: 650px").d-none.d-md-flex.mx-auto
+      img(src='@/assets/curso/temas/tema2/img-26-movil.svg' data-aos="fade-right").d-flex.d-md-none
+      p.pt-md-4.col-xl-10.mx-auto(data-aos="fade-left") En la etapa de #[b investigación], se realiza recopilación de información del mercado objetivo para la organización, se indaga sobre las características geográficas, demográficas, psicosociales, económicas, entre otras variables que la organización considera relevantes. 
         br
         br
         | Con la información recolectada en la etapa de investigación se realiza su respectivo #[b análisis], en el cual se empieza a dividir el mercado objetivo en #[b segmentos] con características comunes o homogéneas. Y en la etapa de segmentación se da nombre y se crean las estrategias de marketing para cada segmento definido.
@@ -647,15 +647,15 @@
       h2#t_2_5 2.5  Prospección del cliente 
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-xl-5(src='@/assets/curso/temas/tema2/img-27.jpg' style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4 Un correcto estudio de mercado y una correcta segmentación del cliente objetivo, permite que las estrategias de marketing, sean efectivas y lleguen de forma correcta a los clientes; #[b logrando aumentar las ventas, satisfacer las necesidades y fidelizar a los clientes;] es por ello, que es indispensable abordar la prospección del cliente. 
+      img.col-xl-5(src='@/assets/curso/temas/tema2/img-27.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Un correcto estudio de mercado y una correcta segmentación del cliente objetivo, permite que las estrategias de marketing, sean efectivas y lleguen de forma correcta a los clientes; #[b logrando aumentar las ventas, satisfacer las necesidades y fidelizar a los clientes;] es por ello, que es indispensable abordar la prospección del cliente. 
         br
         br
         | En cuanto a la prospección del cliente, se puede definir como las #[b estrategias adelantadas por las organizaciones, para encontrar sus posibles clientes o clientes potenciales que se denominan prospectos], todo ello con la finalidad de generar contactos y realizar ventas de productos o servicios. La prospección se caracteriza por construir relaciones con los clientes, lo cual propende por conocer sus necesidades, gustos y expectativas, con la finalidad de dar a conocer productos y servicios financieros, que brinden soluciones.
 
-    p.mb-5 El lograr la prospección del cliente requiere de unas etapas o procesos que se deben seguir al interior de las organizaciones, las cuales son: 
+    p.mb-5(data-aos="fade-right") El lograr la prospección del cliente requiere de unas etapas o procesos que se deben seguir al interior de las organizaciones, las cuales son: 
 
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-4.py-md-5(titulo="Investigación" :icono="require('@/assets/curso/temas/tema2/p-1.svg')")
         .row.col-xl-10.mx-auto
           .col-md-7.mb-4.mb-md-0.order-2.order-md-1
@@ -706,13 +706,13 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-28.svg' style="max-width: 334px").mx-auto
 
-    p.mb-5 Adicionalmente a las etapas o procesos, también existen diferentes métodos o estrategias de prospectar a los clientes, estos son: 
+    p.mb-5(data-aos="fade-right") Adicionalmente a las etapas o procesos, también existen diferentes métodos o estrategias de prospectar a los clientes, estos son: 
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Tabla 2
       span Etapas de prospección
 
-    .table-responsive
+    .table-responsive(data-aos="fade-left")
       table.mb-5(style="min-width: 1044px")
         thead
           tr
