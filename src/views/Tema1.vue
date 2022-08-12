@@ -251,7 +251,7 @@
       img(src='@/assets/curso/temas/tema1/img-15.jpg' style="max-width: 295px;" data-aos="fade-right").col-md-3.mb-4.mb-md-0.mx-auto
       p.col-md-9.ps-md-3.mb-0(data-aos="fade-left") La Superintendencia Financiera de Colombia (SFC), está adscrita al Ministerio de Hacienda y Crédito Público y como ya se ha mencionado, tiene la función de vigilancia y control, esta es una entidad con autonomía administrativa y financiera, cuenta con personería jurídica y patrimonio propio. Se creó la Superintendencia Bancaria de Colombia, mediante el Decreto 4327 del 2005, se fusiona en la Superintendencia de Valores y se modifica la estructura de la Superintendencia Financiera de Colombia, mediante el Decreto 710 de 2012.
     
-    p.mb-5(data-aos="fade-right") Por su parte, el Banco de la República es el emisor de la modela legal en Colombia, tiene como función la política monetaria, cambiaria y crediticia del país, por lo cual se encuentra estrechamente relacionado con el sistema financiero y dentro de sus funciones se encuentran:
+    p.mb-5(data-aos="fade-right") Por su parte, el Banco de la República es el emisor de la moneda legal en Colombia, tiene como función la política monetaria, cambiaria y crediticia del país, por lo cual se encuentra estrechamente relacionado con el sistema financiero y dentro de sus funciones se encuentran:
 
     .d-flex.flex-wrap.align-items-center.col-xl-10.mb-5.mx-auto
       .col-lg-6.d-flex.mb-4(data-aos="fade-right")

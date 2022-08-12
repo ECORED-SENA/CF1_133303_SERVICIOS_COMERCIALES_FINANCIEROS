@@ -116,15 +116,11 @@
       .col-lg-6.d-flex.mb-4.pe-lg-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema4/img-11.svg' style="max-width: 85px; margin-right: -3rem;").position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #85D161;")
-          p.mb-0.ps-3 #[b La cultura organizacional fuerte:]
-            br
-            | es la aceptada por todos los miembros de la organización.
+          p.mb-0.ps-3 #[b La cultura organizacional fuerte:] es la aceptada por todos los miembros de la organización.
       .col-lg-6.d-flex.mb-4.ps-lg-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema4/img-12.svg' style="max-width: 85px; margin-right: -3rem;").ms-auto.position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #FDE07E;")
-          p.mb-0.ps-3 #[b La cultura organizacional débil:]
-            br
-            | no se encuentra identificada por parte de los miembros de la organización.
+          p.mb-0.ps-3 #[b La cultura organizacional débil:] no se encuentra identificada por parte de los miembros de la organización.
     
 
     h3.mb-5 Protocolo organizacional

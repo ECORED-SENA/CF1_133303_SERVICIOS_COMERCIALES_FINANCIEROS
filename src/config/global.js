@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Sistema financiero y gestión del riesgo',
     descripcionCurso:
-      'El componente formativo permitirá que apropie conocimientos relacionados con el sistema financiero colombiano, su normatividad, estructura y consumidor financiero; así como conocimientos relacionados con las políticas institucionales y el sistema de administración del riesgo.',
+      'El componente formativo, permitirá al aprendiz que se apropie de los conocimientos relacionados con el sistema financiero colombiano, su normatividad, estructura y consumidor financiero; así como conocimientos relacionados con las políticas institucionales y el sistema de administración del riesgo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

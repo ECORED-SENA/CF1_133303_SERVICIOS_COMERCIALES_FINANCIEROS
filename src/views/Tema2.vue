@@ -12,9 +12,9 @@
     .d-flex.flex-wrap.align-items-center.mb-3.col-xl-10.p-4.mx-auto.bg-texto-img
       .col-xl-4.mx-auto.mb-4.mb-xl-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-1.png' style="max-width: 295px;").ms-auto
-      p.col-xl-8.mb-0.p-3(data-aos="fade-left") Por ello, se puede definir el marketing como el conjunto de actividades y estrategias, que implementan las organizaciones, para crear y comunicar valor de marca, logrando la fidelización de los clientes; a partir del estudio y análisis de las necesidades y comportamiento de los clientes, como de los mercados. 
+      p.col-xl-8.mb-0.p-3(data-aos="fade-left") Por ello, se puede definir el #[em marketing] como el conjunto de actividades y estrategias, que implementan las organizaciones, para crear y comunicar valor de marca, logrando la fidelización de los clientes; a partir del estudio y análisis de las necesidades y comportamiento de los clientes, como de los mercados. 
 
-    p.mb-5(data-aos="fade-right") En cuanto a los principales objetivos del marketing se encuentran: 
+    p.mb-5(data-aos="fade-right") En cuanto a los principales objetivos del #[em marketing] se encuentran: 
 
     .d-flex.flex-wrap.mb-5(data-aos="fade-left")
       .mb-4.tj-hover-color.mx-auto
@@ -266,46 +266,46 @@
 
     p.mb-5(data-aos="fade-right") Al iniciar los estudios de las necesidades de las personas y sus deseos a satisfacer, se debe realizar la segmentación del mercado e identificar el nicho de mercado (de este tema se hablará más adelante); esta permite agrupar los clientes potenciales en grupos de acuerdo a su ubicación geográfica, a la demografía (edad, sexo), por grupo socioeconómico (nivel de ingresos), según las características psicológicas, y comportamentales (beneficio del comprador, intención de compra); por su parte el nicho de mercado se encuentra inmerso en cada segmento del mercado, mediante grupos más reducidos.
 
-    h3.mb-5 Historia del marketing
-    p(data-aos="fade-left") En primera instancia, estos son los personajes representativos del marketing y sus aportes:
+    h3.mb-5 Historia del #[em marketing]
+    p(data-aos="fade-left") En primera instancia, estos son los personajes representativos del #[em marketing] y sus aportes:
 
     .d-flex.flex-wrap.mb-5
       img(src='@/assets/curso/temas/tema2/img-2.svg' data-aos="fade-right" style="max-width: 295px;").d-none.d-xl-flex.col-xl-4.mx-auto
       .col-xl-8(data-aos="fade-left")
         AcordionA.acordeon-t2.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.col-xl-11.mx-auto(titulo="Término marketing")
+          .row.col-xl-11.mx-auto(titulo="Término <em>marketing</em>")
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img-3.png')
             .col-md-6.mb-4.mb-md-0
               p #[b El profesor E. D. Jones] utiliza por primera vez, en el año 1902, el término #[em marketing] en la Universidad de Michigan, durante el curso #[em “The distributive and regulative industries of the United States”.]
           
-          .row.col-xl-11.mx-auto(titulo="Primer libro de marketing")
+          .row.col-xl-11.mx-auto(titulo="Primer libro de <em>marketing</em>")
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img-4.png')
             .col-md-6.mb-4.mb-md-0
-              p #[b Fred E. Clarck], escribió el primer libro sobre marketing titulado #[b Principios del marketing], en el año 1922. Más tarde se convirtió en el primer presidente de la American Marketing Association.
+              p #[b Fred E. Clarck], escribió el primer libro sobre #[em marketing] titulado #[b Principios del #[em marketing]], en el año 1922. Más tarde se convirtió en el primer presidente de la #[em American Marketing Association].
           
           .row.col-xl-11.mx-auto(titulo="Las 4 P (producto, precio, plaza y promoción)")
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img-5.png')
             .col-md-6.mb-4.mb-md-0
-              p #[b Philip Kotler], considerado el #[b padre del marketing] moderno, debido a sus aportes de las 4 P (producto, precio, plaza y promoción), también es reconocido por su asesoría en empresas como IBM y Bank of America. 
-    p.mb-5(data-aos="fade-right") El marketing, a través de la historia, ha pasado por cuatro etapas o fases, las cuales han evolucionado de acuerdo a los cambios de las necesidades de las personas, los medios de producción y las nuevas tecnologías de las comunicaciones y la información. 
+              p #[b Philip Kotler], considerado el #[b padre del #[em marketing]] moderno, debido a sus aportes de las 4 P (producto, precio, plaza y promoción), también es reconocido por su asesoría en empresas como IBM y Bank of America. 
+    p.mb-5(data-aos="fade-right") El #[em marketing], a través de la historia, ha pasado por cuatro etapas o fases, las cuales han evolucionado de acuerdo a los cambios de las necesidades de las personas, los medios de producción y las nuevas tecnologías de las comunicaciones y la información. 
       br
       br
-      | Sabiendo esto, es preciso conocer la evolución del Marketing:
+      | Sabiendo esto, es preciso conocer la evolución del #[em Marketing]:
     
     .col-xl-10.mx-auto.mb-5(data-aos="fade-right")
       LineaTiempoD.color-primario.linea-tiempo-edit
-        .row(numero="1" titulo="Marketing 1.0  Orientado al producto (1890-1959)")
+        .row(numero="1" titulo="<em>Marketing</em> 1.0  Orientado al producto (1890-1959)")
           .col-md-7.mb-4.mb-md-0
             p Para la época las empresas, se enfocaban en los medios de producción, lo cual se evidenció con Henry Ford y la cadena de producción. 
               br
               br
-              | Por lo cual la implementación del marketing se enfocaba solo en el producto y se empleaba la comunicación por medios masivos. 
+              | Por lo cual la implementación del #[em marketing] se enfocaba solo en el producto y se empleaba la comunicación por medios masivos. 
         
           .col-md-5
             figure
@@ -313,12 +313,12 @@
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption *Tomado de YouTube
       
-        .row(numero="2" titulo="Marketing 2.0 Orientado al consumidor (1860-1989)")
+        .row(numero="2" titulo="<em>Marketing</em> 2.0 Orientado al consumidor (1860-1989)")
             .col-md-7.mb-4.mb-md-0
               p En esta etapa, el consumidor empieza a ser más exigente, debido al aumento de la competencia; por lo cual se crea la necesidad de fidelizar al cliente. 
                 br
                 br
-                | El marketing 2.0 está enfocado en las necesidades y deseos de los clientes.
+                | El #[em marketing] 2.0 está enfocado en las necesidades y deseos de los clientes.
           
             .col-md-5
               figure
@@ -326,7 +326,7 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
                 figcaption *Tomado de YouTube
         
-        .row(numero="3" titulo="Marketing 3.0 Estrategia de  marca (1990-2015)")
+        .row(numero="3" titulo="<em>Marketing</em> 3.0 Estrategia de  marca (1990-2015)")
             .col-md-7.mb-4.mb-md-0
               p Nace la necesidad de generar fidelización o lealtad hacia la marca, por lo cual se crean estrategias donde el cliente empieza a interactuar con la marca. 
           
@@ -336,12 +336,12 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
                 figcaption *Tomado de YouTube
         
-        .row(numero="4" titulo="Marketing 4.0 Marketing digital (2016 - actualidad)")
+        .row(numero="4" titulo="<em>Marketing</em> 4.0 <em>Marketing</em> digital (2016 - actualidad)")
             .col-md-7.mb-4.mb-md-0
-              p En esta época el comercio electrónico se encuentra en auge, por lo cual se crea la necesidad de implementar las estrategias de marketing tradicional a lo digital. 
+              p En esta época el comercio electrónico se encuentra en auge, por lo cual se crea la necesidad de implementar las estrategias de #[em marketing] tradicional a lo digital. 
                 br
                 br
-                | Las empresas empiezan a implementar la Big Data, y la minería de datos para estudiar el comportamiento de las personas.  
+                | Las empresas empiezan a implementar la #[em Big Data], y la minería de datos para estudiar el comportamiento de las personas.  
           
             .col-md-5
               figure
@@ -352,13 +352,13 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_1 2.1 Características del #[em marketing]
     
-    p.mb-5(data-aos="fade-left") Las estrategias de marketing permiten lograr un beneficio mutuo, tanto para las organizaciones como para los consumidores, por ello, este posee unas características específicas para alcanzar estos beneficios.
+    p.mb-5(data-aos="fade-left") Las estrategias de #[em marketing] permiten lograr un beneficio mutuo, tanto para las organizaciones como para los consumidores, por ello, este posee unas características específicas para alcanzar estos beneficios.
 
     .tarjeta-edit-bg.mb-5
       .col-xl-6.d-flex.pt-3.order-2.order-xl-1.mx-auto(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img-6.svg' style="max-width: 43px")
         .col.ps-4.d-flex.flex-wrap.align-content-center
-          h4.w-100 Características del marketing:
+          h4.w-100 Características del #[em marketing]:
           ul.mb-0.lista-ul--color
             li
               .my-auto.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
@@ -383,12 +383,12 @@
               | Posicionamiento de marca.
       .col-xl-6.order-1.order-xl-2.mx-auto.mb-4.mb-xl-0
         img(src='@/assets/curso/temas/tema2/img-7.png' data-aos="fade-left")
-    p.mb-5(data-aos="fade-right") Estas características son en general para todas las estrategias del Marketing, pero existen unas estrategias intrínsecas a cada estrategia del marketing, de las cuales se conocen cuatro: 
+    p.mb-5(data-aos="fade-right") Estas características son en general para todas las estrategias del #[em Marketing], pero existen unas estrategias intrínsecas a cada estrategia del #[em marketing], de las cuales se conocen cuatro: 
 
     SlyderA.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-right")
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-md-5.mb-4.mb-md-0
-          h4 Estrategia de las #[span(style="color: #FC8116") 4 P] del marketing o marketing mix 
+          h4 Estrategia de las #[span(style="color: #FC8116") 4 P] del #[em marketing] o #[em marketing] mix 
           p Esta estrategia se centra en cuatro elementos fundamentales: #[b(style="color: #FC8116") producto, precio, plaza y promoción;] los cuales son definidos a partir de un estudio de mercado. 
       
         .col-md-7
@@ -396,7 +396,7 @@
             img.ms-md-auto(src='@/assets/curso/temas/tema2/img-8.png' style="max-width: 610px")
       
       .d-flex.flex-wrap.col-xl-11.mx-auto
-        h4.w-100.mb-4 Estrategia de las #[span(style="color: #FC8116") 4 P] del marketing o marketing mix
+        h4.w-100.mb-4 Estrategia de las #[span(style="color: #FC8116") 4 P] del #[em marketing] o #[em marketing] mix
         .col-xl-6
           .d-flex.align-items-start.mb-4
             img(src='@/assets/curso/temas/tema2/1.svg' style="max-width: 85px")
@@ -414,7 +414,7 @@
 
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-md-5.mb-4.mb-md-0
-          h4 Estrategias de las #[span(style="color: #FC8116") 4 C] del marketing 
+          h4 Estrategias de las #[span(style="color: #FC8116") 4 C] del #[em marketing] 
           p Prestan servicios del sector financiero, pero se encuentran especializadas en brindar asesoría financiera en la administración de los recursos.
       
         .col-md-7
@@ -469,7 +469,7 @@
             img(src='@/assets/curso/temas/tema2/img-infografica-1.svg' style="max-width: 76px").col-lg-2.mx-auto.mb-4.mb-lg-auto
             .col-lg-10.ps-lg-3
               .h5.mb-2 Etapa de desarrollo
-              p.mb-0 Aquí se da el desarrollo de un nuevo producto o servicio, por parte de la organizaciones, a partir de la necesidad de los clientes, también se puede hablar de las mejoras o nuevos diseños a productos ya existentes, en esta etapa también se diseña el proceso de lanzamiento del mismo a través de estrategias de promoción del marketing. 
+              p.mb-0 Aquí se da el desarrollo de un nuevo producto o servicio, por parte de la organizaciones, a partir de la necesidad de los clientes, también se puede hablar de las mejoras o nuevos diseños a productos ya existentes, en esta etapa también se diseña el proceso de lanzamiento del mismo a través de estrategias de promoción del #[em marketing]. 
         
         .tarjeta.p-3(x="41%" y="50%" numero="2" style="background-color: #FED5B1")
           .d-flex.flex-wrap.w-100
@@ -550,7 +550,7 @@
       img.order-1.order-lg-2.col-lg-3.col-xl-2.mb-4.mb-lg-0.mx-auto(src='@/assets/curso/temas/tema2/banco.svg' data-aos="fade-left" style="max-width: 190px")
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-xl-5(src='@/assets/curso/temas/tema2/img-18.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
+      img.col-xl-5(src='@/assets/curso/temas/tema2/img-17_1.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
       p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Los productos financieros ofrecen beneficios y ventajas, como seguridad del dinero, el riesgo asociado a las operaciones es asumido por las entidades financieras, debido a que el riesgo que se encuentra intrínseco en el pago o cobro de interés permite que las personas tengas un historial crediticio, acceso ágil a los recursos, genera control sobre las finanzas e inversiones.
         br
         br
@@ -579,7 +579,7 @@
       p.col-xl-7.mb-0.pe-xl-4.order-2.order-xl-1(data-aos="fade-right") Las organizaciones deben de realizar estudios de mercados, que permitan identificar las necesidades de los clientes, por ello surge la necesidad de realizar una correcta segmentación de los mercados, la cual permite dividir los mercados en grupos homogéneos, con unas características y particularidades similares, entre ellos. 
         br
         br
-        | La segmentación del mercado tiene como objetivo, reconocer las características de los consumidores financieros, diseñando productos y servicios acorde a las necesidades de sus clientes, logrando la satisfacción y fidelización de estos. Permitiendo además que las estrategias de marketing sean eficientes y eficaces para las organizaciones, presentando productos y servicios financieros acordes, precios relacionados con el mercado, los lugares donde son requeridos y los medios de divulgación o promoción. 
+        | La segmentación del mercado tiene como objetivo, reconocer las características de los consumidores financieros, diseñando productos y servicios acorde a las necesidades de sus clientes, logrando la satisfacción y fidelización de estos. Permitiendo además que las estrategias de #[em marketing] sean eficientes y eficaces para las organizaciones, presentando productos y servicios financieros acordes, precios relacionados con el mercado, los lugares donde son requeridos y los medios de divulgación o promoción. 
       img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-0(src='@/assets/curso/temas/tema2/img-18.jpg' data-aos="fade-left" style="max-width: 505px")
 
     p.mb-5(data-aos="fade-right") Las principales características de la segmentación de los mercados financieros son:
@@ -593,12 +593,12 @@
       .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade")
         img.position-relative(src='@/assets/curso/temas/tema2/img-20.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
-          p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras
+          p.mb-0 #[b Tamaño del mercado:] permiten medir el tamaño del mercado.
       
       .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade-left")
         img.position-relative(src='@/assets/curso/temas/tema2/img-21.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
-          p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras
+          p.mb-0 #[b Segmentos del mercado accionables:] establecen la dirección de estrategias de marketing para cada grupo. 
 
     p.mb-5(data-aos="fade-right") En el mercado financiero también se han identificado diferentes tipos de segmentos, a saber:
 
@@ -639,7 +639,7 @@
       p.pt-md-4.col-xl-10.mx-auto(data-aos="fade-left") En la etapa de #[b investigación], se realiza recopilación de información del mercado objetivo para la organización, se indaga sobre las características geográficas, demográficas, psicosociales, económicas, entre otras variables que la organización considera relevantes. 
         br
         br
-        | Con la información recolectada en la etapa de investigación se realiza su respectivo #[b análisis], en el cual se empieza a dividir el mercado objetivo en #[b segmentos] con características comunes o homogéneas. Y en la etapa de segmentación se da nombre y se crean las estrategias de marketing para cada segmento definido.
+        | Con la información recolectada en la etapa de investigación se realiza su respectivo #[b análisis], en el cual se empieza a dividir el mercado objetivo en #[b segmentos] con características comunes o homogéneas. Y en la etapa de segmentación se da nombre y se crean las estrategias de #[em marketing] para cada segmento definido.
 
     Separador
 
@@ -648,7 +648,7 @@
 
     .d-flex.flex-wrap.align-items-center.mb-5
       img.col-xl-5(src='@/assets/curso/temas/tema2/img-27.jpg' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Un correcto estudio de mercado y una correcta segmentación del cliente objetivo, permite que las estrategias de marketing, sean efectivas y lleguen de forma correcta a los clientes; #[b logrando aumentar las ventas, satisfacer las necesidades y fidelizar a los clientes;] es por ello, que es indispensable abordar la prospección del cliente. 
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Un correcto estudio de mercado y una correcta segmentación del cliente objetivo, permite que las estrategias de #[em marketing], sean efectivas y lleguen de forma correcta a los clientes; #[b logrando aumentar las ventas, satisfacer las necesidades y fidelizar a los clientes;] es por ello, que es indispensable abordar la prospección del cliente. 
         br
         br
         | En cuanto a la prospección del cliente, se puede definir como las #[b estrategias adelantadas por las organizaciones, para encontrar sus posibles clientes o clientes potenciales que se denominan prospectos], todo ello con la finalidad de generar contactos y realizar ventas de productos o servicios. La prospección se caracteriza por construir relaciones con los clientes, lo cual propende por conocer sus necesidades, gustos y expectativas, con la finalidad de dar a conocer productos y servicios financieros, que brinden soluciones.
@@ -721,7 +721,7 @@
                 h3.text-center.fw-bold.mb-0 Outbond
             th.p-0(style="border: none !important;")
               .p-3(style="background-color: #A4DC88; border: 3px solid #FC8116; border-bottom: none;")
-                h3.text-center.fw-bold.mb-0 Inbound
+                h3.text-center.fw-bold.mb-0 #[em Inbound]
             th.p-0(style="border: none !important;")
               .p-3(style="background-color: #FDE07E; border: 3px solid #FC8116; border-bottom: none;  border-left: none;")
                 h3.text-center.fw-bold.mb-0 Recomendación
@@ -735,10 +735,10 @@
                 p La organización debe entrar en contacto con el prospecto, debido a que este no espera comunicarse y que la organización se comunique con él. 
             td.p-0(style="border: none !important; vertical-align: bottom; width: 33.33%")
               .h-100.p-3(style="border: 3px solid #FC8116; border-top: none;")
-                p La organización entra en contacto con el prospecto a través del marketing, debido a que el prospecto ya ha estado en contacto con la organización. 
+                p La organización entra en contacto con el prospecto a través del #[em marketing], debido a que el prospecto ya ha estado en contacto con la organización. 
             td.p-0(style="border: none !important; vertical-align: bottom; width: 33.33%")
               .h-100.p-3(style="border: 3px solid #FC8116; border-top: none; border-left: none;")
-                p Se emplea la estrategia de marketing por referencia, donde los clientes actuales, recomiendan los productos o servicios, a los prospectos; por estas recomendaciones reciben un beneficio. 
+                p Se emplea la estrategia de #[em marketing] por referencia, donde los clientes actuales, recomiendan los productos o servicios, a los prospectos; por estas recomendaciones reciben un beneficio. 
             td.p-0(style="border: none !important; vertical-align: bottom; width: 33.33%")
               .h-100.p-3(style="border: 3px solid #FC8116; border-top: none; border-left: none; border-bottom-right-radius: 20px")
                 p Son otras empresas u organizaciones, las que realizan el contacto con el cliente prospecto. 

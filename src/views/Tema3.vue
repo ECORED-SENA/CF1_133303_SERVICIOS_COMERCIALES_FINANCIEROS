@@ -45,15 +45,11 @@
       .col-lg-6.d-flex.mb-4.pe-lg-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema3/img-4.svg' style="max-width: 85px; margin-right: -3rem;").position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #85D161;")
-          p.mb-0.ps-3 #[b El consumidor actual:]
-            br
-            | quien en la actualidad consume los productos y servicios.
+          p.mb-0.ps-3 #[b El consumidor actual:] quien en la actualidad consume los productos y servicios.
       .col-lg-6.d-flex.mb-4.ps-lg-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema3/img-5.svg' style="max-width: 85px; margin-right: -3rem;").ms-auto.position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #FDE07E;")
-          p.mb-0.ps-3 #[b El consumidor potencial:]
-            br
-            | es un cliente potencial, puede ser un posible comprador de los productos y servicios.
+          p.mb-0.ps-3 #[b El consumidor potencial:] es un cliente potencial, puede ser un posible comprador de los productos y servicios.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 5
@@ -61,7 +57,7 @@
 
     img(src='@/assets/curso/temas/tema3/img-6.svg' data-aos="fade-right").mb-5
 
-    p.mb-5(data-aos="fade-right") El consumidor financiero, sea persona natural o jurídica, consumidor activo o potencial, poseen unas características, que deben ser tomadas en cuenta previamente por parte de los servicios financieros, en las estrategias de marketing. De los procesos de asesoría brindados por parte del asesor financiero, depende el éxito de la venta de los productos y la creación de valor de marca. 
+    p.mb-5(data-aos="fade-right") El consumidor financiero, sea persona natural o jurídica, consumidor activo o potencial, poseen unas características, que deben ser tomadas en cuenta previamente por parte de los servicios financieros, en las estrategias de #[em marketing]. De los procesos de asesoría brindados por parte del asesor financiero, depende el éxito de la venta de los productos y la creación de valor de marca. 
       br
       br
       | Las características de los consumidores pueden ser cualitativas y cuantitativas, las cuales se deben identificar de una forma correcta y de esta forma poder dirigir las estrategias de producto, precio, plaza y promoción, dentro del sistema financiero; lo que permitirá posicionar la marca de la entidad u organización y crear una fidelización del cliente. A continuación, se conocerá un poco de ellas:
@@ -77,7 +73,7 @@
           img(src='@/assets/curso/temas/tema3/img-8.png').mb-3
           p.fw-bold.mb-3 Características cualitativas
           p Son cualidades como el #[b sexo, estado civil, situación financiera, religión, profesión, gusto entre otros;] que permiten identificar la orientación del cliente; estas son muy importantes de conocer, pues permiten identificar las preferencias a la hora de decidir en adquirir un producto o servicio.
-    p.mb-5(data-aos="fade-right") En el proceso se debe identificar el perfil del consumidor, esto permitirá construir y dirigir las estrategias de venta de una forma adecuada que permitan, tener acceso al cliente y lograr el fin último, el cual es crear una fidelidad hacia la entidad, la organización o la marca, el conocimiento del perfil del consumidor se ha estudiado por la Psicología y más propiamente por el neuromarketing.
+    p.mb-5(data-aos="fade-right") En el proceso se debe identificar el perfil del consumidor, esto permitirá construir y dirigir las estrategias de venta de una forma adecuada que permitan, tener acceso al cliente y lograr el fin último, el cual es crear una fidelidad hacia la entidad, la organización o la marca, el conocimiento del perfil del consumidor se ha estudiado por la Psicología y más propiamente por el #[em neuromarketing].
       br
       br
       |Los consumidores poseen unos caracteres definidos de las cuales los impulsan a adquirir un producto o servicio, los cuales se clasifican en un amplio grupo de once consumidores: 
@@ -170,7 +166,7 @@
     
     .d-flex.flex-wrap.align-items-center.mb-5
       img.col-xl-5(src='@/assets/curso/temas/tema3/img-24.png' data-aos="fade-right" style="max-width: 505px").mb-4.mb-xl-0
-      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") En la segmentación de los mercados es de vital importancia, categorizar a los consumidores de acuerdo con los canales o medios de consumos, es decir, si lo hace de manera presencial, en tiendas o establecimientos físicos o por el contrario prefiere adquirir productos y servicios on line. 
+      p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") En la segmentación de los mercados es de vital importancia, categorizar a los consumidores de acuerdo con los canales o medios de consumos, es decir, si lo hace de manera presencial, en tiendas o establecimientos físicos o por el contrario prefiere adquirir productos y servicios #[em on line].
         br
         br
         | En este segmento se distingue el consumidor tradicional y el consumidor digital, por su parte el consumidor tradicional es el consumidor fiel a una empresa, organización o marca, es difícil de influir en él, y se dirigen a las tiendas o establecimientos físicos.
@@ -192,7 +188,7 @@
       .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(style="border-radius: 0; min-height: 428px; background-color: #C2E8B0;")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.text-center
-            p #[b Generación baby boomers:] es la generación nacida entre 1945 y 1959, quienes vivieron el inicio de la televisión, y electrodomésticos del hogar, el teléfono móvil, primeros computadores y equipos de oficina como el fax.
+            p #[b Generación #[em baby boomers]:] es la generación nacida entre 1945 y 1959, quienes vivieron el inicio de la televisión, y electrodomésticos del hogar, el teléfono móvil, primeros computadores y equipos de oficina como el fax.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-26.jpg')})`}")
 
       .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(style="border-radius: 0; min-height: 428px; background-color: #C2E8B0;")
@@ -204,7 +200,7 @@
       .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(style="border-radius: 0; min-height: 428px; background-color: #C2E8B0;")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.text-center
-            p #[b Los millennials o generación Y:] es la generación nacida en los años 1981 A 1993, están marcados por la cúspide económica, con los inicios del bloque económico  de la Unión Europea; pero se han visto enfrentados a una crisis sociales, debido a la baja oferta de empleo y disminución en los salarios. 
+            p #[b Los #[em millennials] o generación Y:] es la generación nacida en los años 1981 A 1993, están marcados por la cúspide económica, con los inicios del bloque económico  de la Unión Europea; pero se han visto enfrentados a una crisis sociales, debido a la baja oferta de empleo y disminución en los salarios. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-28.jpg')})`}")
 
       .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(style="border-radius: 0; min-height: 428px; background-color: #C2E8B0;")
@@ -216,16 +212,16 @@
       .tarjeta.tarjeta-slide.arriba.mx-auto.d-flex.align-items-center(style="border-radius: 0; min-height: 428px; background-color: #C2E8B0;")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.text-center
-            p #[b La generación alpha:] la generación que ha nacido entre los años 2010 y a la actualidad, nacieron y viven en la era digital, la nueva revolución de la energética, los nuevos medios de movilidad a partir de la electricidad, y la mayor preocupación para esta generación es la sostenibilidad y el cambio climático. 
+            p #[b La generación #[em alpha]:] la generación que ha nacido entre los años 2010 y a la actualidad, nacieron y viven en la era digital, la nueva revolución de la energética, los nuevos medios de movilidad a partir de la electricidad, y la mayor preocupación para esta generación es la sostenibilidad y el cambio climático. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-30.jpg')})`}")
 
     p(data-aos="fade-right") Al caracterizar cada uno de los clientes, permite a las organizaciones establecer mejoras en las políticas de servicio al cliente, debido a que cada persona tiene unas características definidas, principalmente en los medios de comunicación; lo que permitirá que se ofrezca un servicio al cliente personalizado, con la finalidad de fidelizar.
       br
       br
-      |#[b Se identifica que las generaciones de la posguerra, baby boomers y generación x, prefieren los canales tradicionales, por lo cual son las personas que acudirán a las entidades del sistema financiero.]
+      |#[b Se identifica que las generaciones de la posguerra, #[em baby boomers] y generación x, prefieren los canales tradicionales, por lo cual son las personas que acudirán a las entidades del sistema financiero.]
       br
       br
-      | En cuanto a las generaciones de los millennials y la generación z, prefieren los canales digitales para realizar sus inversiones, ahorro, solicitud de créditos u otros servicios que ofrece el servicio financiero; también han migrado a nuevos sistemas financieros como lo son las monedas y las inversiones digitales. 
+      | En cuanto a las generaciones de los #[em millennials] y la generación z, prefieren los canales digitales para realizar sus inversiones, ahorro, solicitud de créditos u otros servicios que ofrece el servicio financiero; también han migrado a nuevos sistemas financieros como lo son las monedas y las inversiones digitales. 
 
 </template>
 

@@ -67,7 +67,7 @@
 
     h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") A-] Sistema de administración de riesgos de lavado de activos y financiación del terrorismo (Sarlaft)
 
-    p.mb-5(data-aos="fade-right") Es obligatoriedad que las entidades vigiladas por la Superintendencia Financiera de Colombia, implementar el Sarlaft, como prevención al riesgo de lavado de activos y financiación del terrorismo; con la finalidad de evitar que dineros ilegales, ingreses a organizaciones legalmente constituidas, con la finalidad de dar apariencia de legalidad a estos dineros.
+    p.mb-5(data-aos="fade-right") Es obligatoriedad que las entidades vigiladas por la Superintendencia Financiera de Colombia, implementar el Sarlaft, como prevención al riesgo de lavado de activos y financiación del terrorismo; con la finalidad de evitar que dineros ilegales, ingresos a organizaciones legalmente constituidas, con la finalidad de dar apariencia de legalidad a estos dineros.
       br
       br
       | Los riesgos asociados al Sarlaft son:
@@ -103,8 +103,8 @@
           </g>
         </svg>
         .tarjeta.p-4(style="background-color: #E1F3D7; padding-top: 5rem !important; min-height: 284px")
-          h5.mb-5 Riesgo de reputación:
-          p están relacionados con la imagen corporativa de la organización, la cual se desprestigia y tienen una reputación negativa. 
+          h5.mb-5 Riesgo de reputación
+          p Están relacionados con la imagen corporativa de la organización, la cual se desprestigia y tienen una reputación negativa. 
 
       .mb-4.tj-hover-color-2.mx-auto.col-lg-3.col-md-6.px-md-2
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
@@ -202,8 +202,8 @@
           </g>
         </svg>
         .tarjeta.p-4(style="background-color: #E1F3D7; padding-top: 5rem !important; min-height: 284px")
-          h5.mb-3 Riesgo de legalidad:
-          p las organizaciones se ven inmersas en sanciones.
+          h5.mb-3 Riesgo de legalidad
+          p Las organizaciones se ven inmersas en sanciones.
 
       .mb-4.tj-hover-color-2.mx-auto.col-lg-3.col-md-6.px-md-2
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
@@ -249,8 +249,8 @@
           </g>
         </svg>
         .tarjeta.p-4(style="background-color: #E1F3D7; padding-top: 5rem !important; min-height: 284px")
-          h5.mb-3 Riesgo de contagio:
-          p la relación de miembros con actividades ilícitas o delictivas, afectan la imagen de la organización. 
+          h5.mb-3 Riesgo de contagio
+          p La relación de miembros con actividades ilícitas o delictivas, afectan la imagen de la organización. 
 
       .mb-4.tj-hover-color-2.mx-auto.col-lg-3.col-md-6.px-md-2
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
@@ -286,8 +286,8 @@
           </g>
         </svg>
         .tarjeta.p-4(style="background-color: #E1F3D7; padding-top: 5rem !important; min-height: 284px")
-          h5.mb-3 Riesgos operativos:
-          p presenta fallas en todo su proceso productivo, como paros, falta de recursos, entre otras dificultades para operar.
+          h5.mb-3 Riesgos operativos
+          p Presenta fallas en todo su proceso productivo, como paros, falta de recursos, entre otras dificultades para operar.
     
     h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") B-] Sistema de Administración de Riesgo Operativo (SARO)
     p.mb-5(data-aos="fade-left") El Sistema de Administración de Riesgo Operativo, permite prevenir los riesgos operativos inherentes al ejercicio diario de las organizaciones, dentro de su funcionamiento y actividad económica.
@@ -299,7 +299,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_5_2 5.2  Normatividad del sistema de administración del riesgo 
     
-    p.mb-5(data-aos="fade-right") La norma internacional ISO 31000 se basa en la gestión del riesgo, para ser implementada en las organizaciones, independiente se sector económico en el que se desempeña. La norma ISO 31000 se fundamenta en los siguientes principios:
+    p.mb-5(data-aos="fade-right") La norma internacional ISO 31000 se basa en la gestión del riesgo, para ser implementada en las organizaciones, independiente del sector económico en el que se desempeña. La norma ISO 31000 se fundamenta en los siguientes principios:
     h4.text-center.mb-5(style="color: #FC8116") Principios del sistema de administración del riesgo
     ImagenInfografica.color-secundario.mb-5.col-xl-6.mx-auto.img-infografica-edit(data-aos="fade")
       template(v-slot:imagen)
@@ -371,7 +371,7 @@
       
       .tarjeta.color-acento-botones.p-3(x="65%" y="83%" numero="" style="background-color: #FFF7DF")
         .h5.mb-2 Inclusiva
-        p la participación apropiada y oportuna de las partes interesadas permite que se consideren su conocimiento, puntos de vista y percepciones. Esto resulta en una mayor toma de conciencia y una gestión del riesgo informada.
+        p La participación apropiada y oportuna de las partes interesadas permite que se consideren su conocimiento, puntos de vista y percepciones. Esto resulta en una mayor toma de conciencia y una gestión del riesgo informada.
       
       .tarjeta.color-acento-botones.p-3(x="35%" y="82%" numero="" style="background-color: #FFF7DF")
         .h5.mb-2 Dinámica
@@ -383,11 +383,11 @@
       
       .tarjeta.color-acento-botones.p-3(x="13%" y="29%" numero="" style="background-color: #FFF7DF")
         .h5.mb-2 Factores humanos y culturales
-        p el comportamiento humano y la cultura influyen considerablemente en todos los aspectos de la gestión del riesgo en todos los niveles y etapas.
+        p El comportamiento humano y la cultura influyen considerablemente en todos los aspectos de la gestión del riesgo en todos los niveles y etapas.
       
       .tarjeta.color-acento-botones.p-3(x="35%" y="12%" numero="" style="background-color: #FFF7DF")
         .h5.mb-2 Mejora continua
-        p la gestión del riesgo mejora continuamente mediante aprendizaje y experiencia.
+        p La gestión del riesgo mejora continuamente mediante aprendizaje y experiencia.
 
     Separador
 
