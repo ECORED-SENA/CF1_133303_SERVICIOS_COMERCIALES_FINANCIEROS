@@ -183,7 +183,7 @@
       .d-flex.align-items-center.col-xl-5.mx-auto(data-aos="fade-left")
         ul.lista-ul--color.mb-0
           li
-            .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
+            .mb-auto.mt-2.me-3
             | Características y descripción de los productos y servicios.
           li
             .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")

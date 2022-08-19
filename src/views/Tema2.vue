@@ -674,7 +674,7 @@
         
           .col-md-5.order-1.order-md-2.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema2/img-28.svg' style="max-width: 334px").mx-auto
+              img(src='@/assets/curso/temas/tema2/img-29.svg' style="max-width: 334px").mx-auto
       
       .py-4.py-md-5(titulo="Conexión" :icono="require('@/assets/curso/temas/tema2/p-3.svg')")
         .row.col-xl-10.mx-auto
@@ -684,7 +684,7 @@
         
           .col-md-5.order-1.order-md-2.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema2/img-28.svg' style="max-width: 334px").mx-auto
+              img(src='@/assets/curso/temas/tema2/img-30.svg' style="max-width: 334px").mx-auto
       
       .py-4.py-md-5(titulo="Educación y evaluación" :icono="require('@/assets/curso/temas/tema2/p-4.svg')")
         .row.col-xl-10.mx-auto
@@ -694,7 +694,7 @@
         
           .col-md-5.order-1.order-md-2.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema2/img-28.svg' style="max-width: 334px").mx-auto
+              img(src='@/assets/curso/temas/tema2/img-31.svg' style="max-width: 334px").mx-auto
       
       .py-4.py-md-5(titulo="Finalización de la venta " :icono="require('@/assets/curso/temas/tema2/p-5.svg')")
         .row.col-xl-10.mx-auto
@@ -704,7 +704,7 @@
         
           .col-md-5.order-1.order-md-2.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema2/img-28.svg' style="max-width: 334px").mx-auto
+              img(src='@/assets/curso/temas/tema2/img-32.svg' style="max-width: 334px").mx-auto
 
     p.mb-5(data-aos="fade-right") Adicionalmente a las etapas o procesos, también existen diferentes métodos o estrategias de prospectar a los clientes, estos son: 
 
