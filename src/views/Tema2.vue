@@ -718,7 +718,7 @@
           tr
             th.p-0(style="border: none !important;")
               .p-3(style="background-color: #FED5B1; border: 3px solid #FC8116; border-bottom: none; border-right: none; border-top-left-radius: 20px;")
-                h3.text-center.fw-bold.mb-0 Outbond
+                h3.text-center.fw-bold.mb-0 #[em Outbond]
             th.p-0(style="border: none !important;")
               .p-3(style="background-color: #A4DC88; border: 3px solid #FC8116; border-bottom: none;")
                 h3.text-center.fw-bold.mb-0 #[em Inbound]
