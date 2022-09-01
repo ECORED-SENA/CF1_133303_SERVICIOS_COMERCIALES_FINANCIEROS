@@ -37,7 +37,7 @@
 
     p.mb-5(data-aos="fade-right") Con la implementación de los manuales de procesos y procedimientos y la adecuada documentación de los procesos al interior de las organizaciones se logra: 
 
-    .d-flex.flex-wrap.p-4.pb-xl-0.mb-5(style="background-color: #FFEAD8")
+    .d-flex.flex-wrap.align-items-center.p-4.pb-xl-0.mb-5(style="background-color: #FFEAD8")
       img.col-xl-5.mx-auto.mb-5.mb-xl-0(src='@/assets/curso/temas/tema4/img-4.svg' data-aos="fade-right" style="max-width: 462px")
       ul.lista-ul--color.col-xl-5.mx-auto(data-aos="fade-left")
         li
@@ -60,51 +60,51 @@
 
     PasosA.pasos-edit.color-acento-contenido.mb-5.col-xl-8.mx-auto.mb-5(tipo="n")
       .row(data-aos="fade-left")
-        .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center
-          h3 Misión
+        .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center.order-2.order-md-1
+          h4 Misión
           p.mb-0 Describe lo que hace la empresa, su razón de ser.
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0.order-1.order-md-2
           figure
             img(src='@/assets/curso/temas/tema4/img-5.svg')
       
       .row(data-aos="fade-right")
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/temas/tema4/img-6.svg')
         .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center.text-start
-          h3 Visión
+          h4 Visión
           p.mb-0 Lo que desea lograr o como se ve en el largo tiempo.
       
       .row(data-aos="fade-left")
-        .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center
-          h3 Objetivos estratégicos
+        .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center.order-2.order-md-1
+          h4 Objetivos estratégicos
           p.mb-0 Son los objetivos y metas a largo plazo de las empresas que permiten cumplir la misión o visión de la empresa.
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0.order-1.order-md-2
           figure
             img(src='@/assets/curso/temas/tema4/img-7.svg')
 
       .row(data-aos="fade-right")
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/temas/tema4/img-8.svg')
         .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center.text-start
-          h3 Valores corporativos
+          h4 Valores corporativos
           p.mb-0 Principios y valores que caracterizan a una empresa.
       
       .row(data-aos="fade-left")
-        .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center
-          h3 Políticas
+        .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center.order-2.order-md-1
+          h4 Políticas
           p.mb-0 Son los lineamientos con el cual se rige el marco normativo de una empresa.
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0.order-1.order-md-2
           figure
             img(src='@/assets/curso/temas/tema4/img-9.svg')
 
       .row(data-aos="fade-right")
-        .col-md-6
+        .col-md-6.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/temas/tema4/img-10.svg')
         .col-md-6.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center.text-start
-          h3 Código de ética
+          h4 Código de ética
           p.mb-0 Se establecen normas por medio de la cual se rige la empresa y las personas.
 
     p.mb-5(data-aos="fade-right") La cultura organizacional de las organizaciones se ve influenciada por su entorno por inmersa dentro de una localidad, región o país; además de contar con la política institucional incluyendo valores, normas y políticas que la rigen.
@@ -131,7 +131,7 @@
       | Los protocolos al interior de las organizaciones se pueden clasificar en seis tipos:
 
     .d-flex.flex-wrap
-      img.col-xl-3(src='@/assets/curso/temas/tema4/img-13.svg' data-aos="fade-right")
+      img.col-xl-3.mb-4.mb-xl-0(src='@/assets/curso/temas/tema4/img-13.svg' data-aos="fade-right")
       .col-xl-9.ps-xl-4(data-aos="fade-left")
         TabsA.color-acento-contenido.mb-5.tabs-edit
           .tarjeta.p-4(titulo="Protocolo estándar" style="background-color: #E1F3D7")
@@ -169,7 +169,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_4_2 4.2  Protección al consumidor financiero
 
-    .d-flex.flex-wrap.align-items-center.col-xl-8.p-4.mx-auto.bg-texto-img-2
+    .d-flex.flex-wrap.align-items-center.col-xl-8.p-4.mx-auto.bg-texto-img-2.mb-5.mb-xl-0
       .col-xl-4.mx-auto.mb-4.mb-xl-0
         img(src='@/assets/curso/temas/tema4/img-15.png' data-aos="fade-right" style="max-width: 294px;").ms-auto
       p.fw-bold.col-xl-8.mb-0.p-3(data-aos="fade-left") La Ley 1320 de 2009 por medio de la cual se dictan normas en materia financiera, de seguros, del mercado de valores y otras, tiene como objetivo la protección de los consumidores financieros, por parte de las entidades vigiladas por la Superintendencia Financiera de Colombia. 
@@ -179,11 +179,11 @@
       | Los consumidores financieros deben de recibir una información mínima lo cual es:
 
     .d-flex.flex-wrap.mb-5.p-4(style="background-color: #FFEAD8")
-      img(src='@/assets/curso/temas/tema4/img-16.svg' data-aos="fade-right" style="max-width: 341px;").ms-auto
+      img(src='@/assets/curso/temas/tema4/img-16.svg' data-aos="fade-right" style="max-width: 341px;").ms-xl-auto.mx-auto.mb-4.mb-xl-0
       .d-flex.align-items-center.col-xl-5.mx-auto(data-aos="fade-left")
         ul.lista-ul--color.mb-0
           li
-            .mb-auto.mt-2.me-3
+            .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
             | Características y descripción de los productos y servicios.
           li
             .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
@@ -204,7 +204,7 @@
     p.mb-5(data-aos="fade-right") Con la Ley 1320 de 2009, también se crea la defensoría del consumidor financiero, el cual está encargado de la protección del consumidor financiero; el cual tiene las siguientes funciones:
 
     .d-flex.flex-wrap.mb-5.p-4(style="background-color: #E1F3D7")
-      img(src='@/assets/curso/temas/tema4/img-17.svg' data-aos="fade-right" style="max-width: 341px;").ms-auto
+      img(src='@/assets/curso/temas/tema4/img-17.svg' data-aos="fade-right" style="max-width: 341px;").mx-auto.mb-4.mb-xl-0
       .d-flex.align-items-center.col-xl-5.mx-auto(data-aos="fade-left")
         ul.lista-ul--color.mb-0
           li

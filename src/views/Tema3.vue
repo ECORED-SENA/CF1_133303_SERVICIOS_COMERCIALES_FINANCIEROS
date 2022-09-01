@@ -27,12 +27,12 @@
       .col-xl-6.p-2(data-aos="fade-right")
         .tarjeta.p-4.h-100(style="background-color: #FED5B1")
           img(src='@/assets/curso/temas/tema3/img-2.png').mb-3
-          p.fw-bold.mb-3 La persona natural
+          h4.mb-3 La persona natural
           p Se puede definir como la #[b persona que a nombre propio ejerce una actividad económica], en el caso de Colombia se registra ante el Registro Único Tributario (RUT), como persona natural y se le asigna los códigos CIIU de acuerdo con la actividad económica que ejerce. La persona natural es la responsable de las obligaciones adquiridas con terceros.
       .col-xl-6.p-2(data-aos="fade-left")
         .tarjeta.p-4.h-100(style="background-color: #FEEFBF")
           img(src='@/assets/curso/temas/tema3/img-3.png').mb-3
-          p.fw-bold.mb-3 La persona jurídica
+          h4.mb-3 La persona jurídica
           p Es la #[b forma jurídica que se le da a una o más personas que voluntariamente desean conformar una sociedad], para ejercer una actividad económica; estas personas pueden ser persona natural o persona jurídica; en el caso de la persona jurídica, la sociedad es la responsable de las obligaciones adquiridas con terceros, y al no cumplir con estas obligaciones los socios deben responder según el tipo de constitución de la sociedad y de conformidad con la ley.
     Separador
 
@@ -66,12 +66,12 @@
       .col-xl-6.p-2(data-aos="fade-right")
         .tarjeta.p-4.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema3/img-7.png').mb-3
-          p.fw-bold.mb-3 Características cuantitativas 
+          h4.mb-3 Características cuantitativas 
           p Se identifican las características que pueden ser cuantificables como #[b edad, ingresos mensuales o anuales, activos, pasivos y patrimonio, las inversiones que realiza, entre otros], estas características deben de ser medibles.
       .col-xl-6.p-2(data-aos="fade-right")
         .tarjeta.p-4.h-100(style="background-color: #C2E8B0")
           img(src='@/assets/curso/temas/tema3/img-8.png').mb-3
-          p.fw-bold.mb-3 Características cualitativas
+          h4.mb-3 Características cualitativas
           p Son cualidades como el #[b sexo, estado civil, situación financiera, religión, profesión, gusto entre otros;] que permiten identificar la orientación del cliente; estas son muy importantes de conocer, pues permiten identificar las preferencias a la hora de decidir en adquirir un producto o servicio.
     p.mb-5(data-aos="fade-right") En el proceso se debe identificar el perfil del consumidor, esto permitirá construir y dirigir las estrategias de venta de una forma adecuada que permitan, tener acceso al cliente y lograr el fin último, el cual es crear una fidelidad hacia la entidad, la organización o la marca, el conocimiento del perfil del consumidor se ha estudiado por la Psicología y más propiamente por el #[em neuromarketing].
       br
@@ -80,47 +80,47 @@
 
     SlyderA.slider-a-edit.mb-5(data-aos="fade-left")
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-9.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor e-commerce:] prefiere adquirir productos o servicios a través del ecommerce, por facilidad y comodidad.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-10.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor organizacional:] organizaciones públicas o privadas, con necesidad de adquirir productos o servicios, para su funcionamiento, consumo, o proyectos.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-11.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor de experiencia:] el producto o servicio le deben de ofrecer una experiencia, algo nuevo e innovador, cuanto más detalles es mejor para este consumidor.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-12.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor conservador:] es el consumidor fiel a una empresa, organización o marca, es difícil de influir en él. 
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-13.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor interno:] las personas que están dentro de la organización y tienen la necesidad de adquirir productos o servicios.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-14.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor de descuentos:] Los descuentos, son lo que lo motivan a adquirir los productos o servicios, son amantes de la oferta o lo gratis.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-15.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor emocional:] los productos o servicios que adquieren les deben generar un sentimiento de felicidad, los adquieren a razón de ese sentimiento.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-16.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor escéptico:] es el consumidor desconfiado, debe realizar investigaciones e indagar sobre el producto o servicio antes de adquirirlo, también se le podría llamar consumidor racional.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-17.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor indeciso:] no adquieren el producto o servicio, al no estar seguro de adquirirlo o necesitarlo.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-18.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor impulsivo:] no necesita el producto o servicio, pero lo adquiere; por lo general influenciado por el entorno o como técnica para reprimir algún sentimiento.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-19.jpg')})`}")
-        .col-md-9.col-xl-4.my-auto.ms-auto.p-4(style="background-color: white; padding-right: 75px !important;")
+        .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
           p.mb-0 #[b Consumidor optimista:] el adquirir un producto o servicio se basa en la calidad y lo que le aporta a su bienestar, sin importar el precio.
 
     p.mb-5(data-aos="fade-right") En cuanto al consumidor bancario, investigadores del Colegio de Estudios Superiores de Administración (CESA), junto con investigadores de la Universidad Javeriana y Universidad del Valle, identificaron cuatro perfiles.

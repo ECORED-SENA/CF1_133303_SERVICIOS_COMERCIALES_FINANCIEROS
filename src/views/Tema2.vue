@@ -276,21 +276,21 @@
           .row.col-xl-11.mx-auto(titulo="Término <em>marketing</em>")
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/img-3.png')
+                img(src='@/assets/curso/temas/tema2/img-3.png' class="mb-4 mb-lg-0")
             .col-md-6.mb-4.mb-md-0
               p #[b El profesor E. D. Jones] utiliza por primera vez, en el año 1902, el término #[em marketing] en la Universidad de Michigan, durante el curso #[em “The distributive and regulative industries of the United States”.]
           
           .row.col-xl-11.mx-auto(titulo="Primer libro de <em>marketing</em>")
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/img-4.png')
+                img(src='@/assets/curso/temas/tema2/img-4.png' class="mb-4 mb-lg-0")
             .col-md-6.mb-4.mb-md-0
               p #[b Fred E. Clarck], escribió el primer libro sobre #[em marketing] titulado #[b Principios del #[em marketing]], en el año 1922. Más tarde se convirtió en el primer presidente de la #[em American Marketing Association].
           
           .row.col-xl-11.mx-auto(titulo="Las 4 P (producto, precio, plaza y promoción)")
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/img-5.png')
+                img(src='@/assets/curso/temas/tema2/img-5.png' class="mb-4 mb-lg-0")
             .col-md-6.mb-4.mb-md-0
               p #[b Philip Kotler], considerado el #[b padre del #[em marketing]] moderno, debido a sus aportes de las 4 P (producto, precio, plaza y promoción), también es reconocido por su asesoría en empresas como IBM y Bank of America. 
     p.mb-5(data-aos="fade-right") El #[em marketing], a través de la historia, ha pasado por cuatro etapas o fases, las cuales han evolucionado de acuerdo a los cambios de las necesidades de las personas, los medios de producción y las nuevas tecnologías de las comunicaciones y la información. 
@@ -635,7 +635,7 @@
 
     .p-4.mt-5.mb-5(style="background-color: #FFEAD8")
       img(src='@/assets/curso/temas/tema2/img-26.svg' data-aos="fade-right" style="margin-top: -70px; max-width: 650px").d-none.d-md-flex.mx-auto
-      img(src='@/assets/curso/temas/tema2/img-26-movil.svg' data-aos="fade-right").d-flex.d-md-none
+      img(src='@/assets/curso/temas/tema2/img-26-movil.svg' data-aos="fade-right").d-flex.d-md-none.mb-4
       p.pt-md-4.col-xl-10.mx-auto(data-aos="fade-left") En la etapa de #[b investigación], se realiza recopilación de información del mercado objetivo para la organización, se indaga sobre las características geográficas, demográficas, psicosociales, económicas, entre otras variables que la organización considera relevantes. 
         br
         br
@@ -655,7 +655,7 @@
 
     p.mb-5(data-aos="fade-right") El lograr la prospección del cliente requiere de unas etapas o procesos que se deben seguir al interior de las organizaciones, las cuales son: 
 
-    TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
+    TabsB.color-acento-contenido.mb-5.tabs-edit-2(data-aos="fade-left")
       .py-4.py-md-5(titulo="Investigación" :icono="require('@/assets/curso/temas/tema2/p-1.svg')")
         .row.col-xl-10.mx-auto
           .col-md-7.mb-4.mb-md-0.order-2.order-md-1
@@ -795,6 +795,16 @@ export default {
       background-color: #C2E8B0
   .linea-tiempo-d__item__number
     background-color: #C2E8B0
+  .linea-tiempo-d__item__dots::after
+    border-left: 5px dotted #FC8116 !important
+  @media (max-width: 768px)
+    .linea-tiempo-d__item__content__title
+      height: 60px
+.tabs-edit-2
+  .tabs-b__tab
+    filter: grayscale(1)
+  .tabs-b__tab--active
+    filter: grayscale(0) !important
 .tarjeta-edit-bg
   display: flex
   flex-wrap: wrap

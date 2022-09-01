@@ -19,17 +19,17 @@
 
     LineaTiempoC.color-acento-contenido.p-4.mb-5(text-small style="background-color: #E1F3D7; border-radius: 10px" data-aos="fade-left")
       .row.col-xl-11.mx-auto(titulo="Época Neolítica")
-        .col-xl-5
+        .col-xl-5.mb-4.mb-xl-0
           figure
-            img(src='@/assets/curso/temas/tema1/img-1.jpg')
+            img(src='@/assets/curso/temas/tema1/img-1.jpg' style="max-width: 400px;" class="mx-auto")
         .col-xl-7.mb-4.mb-xl-0
           h4 Época Neolítica (6.000 a. de C. a 3.000 a. de C.)
           p Se destacó por el desarrollo de la agricultura y la ganadería; allí se comienza a evidenciar el excedente de la producción al generarse más bienes, que se requerían para el autoconsumo. Las personas también se dedicaban a la artesanía, los cuales intercambiaban por alimentos; con esta práctica de intercambio de productos, denominado trueque, nacen las primeras formas de comercio; sin embargo, no se da de una forma perfecta debido a que existían productos de baja demanda o necesidad por las personas y no se daba el trueque, es a partir de este problema que surge la necesidad de crear el dinero como medio de transacción. 
       
       .row.col-xl-11.mx-auto(titulo="Siglo V")
-        .col-xl-5
+        .col-xl-5.mb-4.mb-xl-0
           figure
-            img(src='@/assets/curso/temas/tema1/img-2.jpg')
+            img(src='@/assets/curso/temas/tema1/img-2.jpg' style="max-width: 400px;" class="mx-auto")
         .col-xl-7.mb-4.mb-xl-0
           h4 Siglo V al VII a. de C.
           p Surge la primera moneda creada por el pueblo lidio, en Turquía. Se acuña en oro y plata, con la cabeza de un león, al ser creada por la realeza de la época, el rey Argos; y fue empleada para pagar al ejército. 
@@ -41,9 +41,9 @@
             | Las monedas podían pesar  entre 65 y 67 gramos y como había que transportarlas, se hacía un poco complicado su manejo por su peso. Además,  se corría el riesgo de que fueran robadas en su traslado y por esto surgió la necesidad de crear los billetes, como otra forma para intercambiar objetos, con un valor de por medio. 
       
       .row.col-xl-11.mx-auto(titulo="Siglo XI")
-        .col-xl-5
+        .col-xl-5.mb-4.mb-xl-0
           figure
-            img(src='@/assets/curso/temas/tema1/img-3.jpg')
+            img(src='@/assets/curso/temas/tema1/img-3.jpg' style="max-width: 400px;" class="mx-auto")
         .col-xl-7.mb-4.mb-xl-0
           h4 Siglo XI
           p El primer papel moneda fue emitido, por el emperador chino Kubali Kha, el cual se recibía a cambio del servicio de mantener a salvo objetos de valor o monedas, este papel cumplía la función de certificados nominales que acreditaban su posesión y se asimila a lo que es hoy en día como un cheque. El primer billete chino que sobrevive es el 1000 cash, emitido bajo la dinastía Ming en el período de la Gran Guerra (1368 -1398).
@@ -52,17 +52,17 @@
             | En 1661 comienzan a circular  los primeros billetes y su utilización se volvió muy popular, por ser mucho más cómodos para transportar, que la pesada  bolsa llena de monedas.
       
       .row.col-xl-11.mx-auto(titulo="Siglo XX")
-        .col-xl-5
+        .col-xl-5.mb-4.mb-xl-0
           figure
-            img(src='@/assets/curso/temas/tema1/img-4.jpg')
+            img(src='@/assets/curso/temas/tema1/img-4.jpg' style="max-width: 400px;" class="mx-auto")
         .col-xl-6.mb-4.mb-xl-0
           h4 Siglo XX
           p En este siglo se encuentran como medio de transacción las monedas y los billetes, pero también surgieron otros medios, como el llamado “dinero plástico”, las tarjetas débito y tarjetas crédito; las cuales se encuentran respaldadas por los bancos. El dinero es emitido por los bancos centrales de cada país, para el caso de Colombia es el Banco Nacional de la República, y de acuerdo con las políticas monetarias del país son los encargados de poner este dinero a circular. 
       
       .row.col-xl-11.mx-auto(titulo="Siglo XXI")
-        .col-xl-5
+        .col-xl-5.mb-4.mb-xl-0
           figure
-            img(src='@/assets/curso/temas/tema1/img-5.jpg')
+            img(src='@/assets/curso/temas/tema1/img-5.jpg' style="max-width: 400px;" class="mx-auto")
         .col-xl-6.mb-4.mb-xl-0
           h4 Siglo XXI
           p En los últimos años, se ha empezado a hablar y a emplear como medio de transacciones, las criptomonedas, consideradas un activo digital, las cuales se almacenan en billeteras o carteras digitales como binances o trust wallet. 
@@ -145,8 +145,8 @@
 
     p.mb-5(data-aos="fade-right") El Estatuto Organizacional del Sistema Financiero Colombiano (Eosfco), está representado en los siguientes agentes:
     .titulo-sexto.color-acento-contenido
-      h5 Título de sexto nivel, 16pt
-      span subtitulo
+      h5 Tabla 1
+      span Sistema financiero colombiano
 
     .table-responsive(data-aos="fade-left")
       table.mb-5(style="min-width: 1044px")

@@ -385,7 +385,7 @@ export default {
       },
       {
         nombre: 'Yenny Patricia Ulloa Villamizar',
-        cargo: 'Validación audiovisual',
+        cargo: 'Validación contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
