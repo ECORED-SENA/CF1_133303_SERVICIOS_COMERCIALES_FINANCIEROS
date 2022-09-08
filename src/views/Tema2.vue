@@ -310,8 +310,7 @@
           .col-md-5
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-              figcaption *Tomado de YouTube
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/FGCtNmpxQcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
         .row(numero="2" titulo="<em>Marketing</em> 2.0 Orientado al consumidor (1860-1989)")
             .col-md-7.mb-4.mb-md-0
@@ -323,8 +322,7 @@
             .col-md-5
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption *Tomado de YouTube
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/paYiHvf5a6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
         .row(numero="3" titulo="<em>Marketing</em> 3.0 Estrategia de  marca (1990-2015)")
             .col-md-7.mb-4.mb-md-0
@@ -333,8 +331,7 @@
             .col-md-5
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption *Tomado de YouTube
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/os40E0YUtpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
         .row(numero="4" titulo="<em>Marketing</em> 4.0 <em>Marketing</em> digital (2016 - actualidad)")
             .col-md-7.mb-4.mb-md-0
@@ -346,8 +343,7 @@
             .col-md-5
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption *Tomado de YouTube
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Ycs7gq_fRcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     .titulo-segundo.color-acento-contenido
       h2#t_2_1 2.1 Características del #[em marketing]
