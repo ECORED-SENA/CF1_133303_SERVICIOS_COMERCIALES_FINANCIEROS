@@ -331,7 +331,7 @@
             .col-md-5
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/os40E0YUtpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/NljGurzPM2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
         .row(numero="4" titulo="<em>Marketing</em> 4.0 <em>Marketing</em> digital (2016 - actualidad)")
             .col-md-7.mb-4.mb-md-0
