@@ -12,7 +12,7 @@
       p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") La gestión del riesgo o sistema de administración del riesgo está planteada para realizar una adecuada gestión de los riesgos inherentes a la operación de las organizaciones. La implementación de la gestión del riesgo permite identificar, medir, controlar y evaluar los posibles riesgos que pueden afectar la operación de las organizaciones con una correcta identificación de un posible evento no deseado, se puede inferir la probabilidad de que este evento ocurra, y en el caso de que ocurra como se mitiga; para que no afecte el correcto funcionamiento de las organizaciones.
         br
         br
-        | El sistema de gestión de riesgo se desarrolla bajo el esquema GRC (Governance, Risk Management and Compilance) y ERM (Enterprise Risk Managment).
+        | El sistema de gestión de riesgo se desarrolla bajo el esquema GRC (#[em Governance, Risk Management and Compilance]) y ERM (#[em Enterprise Risk Managment]).
     
     p.mb-5(data-aos="fade-right") El esquema GRC se aplica a través de tres perspectivas gobernanza, administración del riesgo y el esquema ERM se aplica a través de la gestión del riesgo, estas dos líneas buscan la consecución de los objetivos de las organizaciones; sin embargo, la ERM se centra en la gestión de los riesgos.
 

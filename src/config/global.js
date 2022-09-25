@@ -343,14 +343,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Diseño web',
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -361,14 +361,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Erika Viviana Sandoval Rojas',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Validación audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+      },
+      {
         nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Revisión de guión audiovisual',
+        cargo: 'Revisión de guion audiovisual',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {

@@ -52,7 +52,7 @@
           p.mb-0.ps-3 #[b El consumidor potencial:] es un cliente potencial, puede ser un posible comprador de los productos y servicios.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-      h5 Figura 5
+      h5 Figura 3
       span Tipos de consumidor
 
     img(src='@/assets/curso/temas/tema3/img-6.svg' data-aos="fade-right").mb-5
@@ -81,7 +81,7 @@
     SlyderA.slider-a-edit.mb-5(data-aos="fade-left")
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-9.jpg')})`}")
         .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")
-          p.mb-0 #[b Consumidor e-commerce:] prefiere adquirir productos o servicios a través del ecommerce, por facilidad y comodidad.
+          p.mb-0 #[b Consumidor #[em e-commerce:]] prefiere adquirir productos o servicios a través del #[em ecommerce], por facilidad y comodidad.
 
       .row.mx-4.mx-md-0(style="min-height: 440px" :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-10.jpg')})`}")
         .col-md-9.col-xl-4.my-auto.ms-auto.p-4.ps-5.ps-md-4(style="background-color: white; padding-right: 75px !important;")

@@ -65,7 +65,7 @@
             img(src='@/assets/curso/temas/tema1/img-5.jpg' style="max-width: 400px;" class="mx-auto")
         .col-xl-6.mb-4.mb-xl-0
           h4 Siglo XXI
-          p En los últimos años, se ha empezado a hablar y a emplear como medio de transacciones, las criptomonedas, consideradas un activo digital, las cuales se almacenan en billeteras o carteras digitales como binances o trust wallet. 
+          p En los últimos años, se ha empezado a hablar y a emplear como medio de transacciones, las criptomonedas, consideradas un activo digital, las cuales se almacenan en billeteras o carteras digitales como #[em binances] o #[em trust wallet.]
             br
             br
             | Las criptomonedas se encuentran descentralizadas, lo que significa que no están reguladas por los bancos centrales de cada país.
@@ -257,7 +257,7 @@
       .col-lg-6.d-flex.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img-decorador.svg' style="max-width: 85px; margin-right: -3rem;").position-relative
         .tarjeta.p-3.ps-5.d-flex.align-items-center(style="background-color: #C2E8B0;")
-          p.mb-0.ps-3 Crear los instrumentos de la política monetaria, cambiaria y crediticia
+          p.mb-0.ps-3 Crear los instrumentos de la política monetaria, cambiaria y crediticia.
       
       .col-lg-6.d-flex.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/img-decorador.svg' style="max-width: 85px; margin-right: -3rem;").ms-auto.position-relative

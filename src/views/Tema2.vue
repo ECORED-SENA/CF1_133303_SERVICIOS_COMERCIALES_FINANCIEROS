@@ -420,7 +420,7 @@
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-md-5.mb-4.mb-md-0
           h4 Estrategia de segmentación
-          p Se refiere a dividir el mercado de acuerdo a las características de los consumidores, entre los cuales se encuentran segmentación indiferenciada, diferenciada, concentrada y one to one. 
+          p Se refiere a dividir el mercado de acuerdo a las características de los consumidores, entre los cuales se encuentran segmentación indiferenciada, diferenciada, concentrada y #[em one to one.]
       
         .col-md-7
           figure
@@ -428,7 +428,7 @@
       
       .d-flex.flex-wrap.col-xl-11.mx-auto
         .col-md-5.mb-4.mb-md-0
-          h4 Estrategia de branding
+          h4 Estrategia de #[em branding]
           p En esta se busca posicionar en la mente de los consumidores, la marca, por eso es tan importante la creación de marca al interior de las organizaciones.
       
         .col-md-7
@@ -449,7 +449,7 @@
       .col-xl-6.ps-xl-4.me-xl-auto(data-aos="fade-left")
         img.mb-3(src='@/assets/curso/temas/tema2/img-13.svg' style="max-width: 630px")
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3
+          h5 Figura 1
           span Ciclo de vida del producto o servicio
     p.mb-5(data-aos="fade-right") Tanto los productos o servicios cumplen un ciclo en el mercado, el cual va desde su lanzamiento o desarrollo hasta su declive, por lo cual es indispensable comprender la teoría del ciclo de vida del producto, creando estrategias por parte de las organizaciones, en cada una de sus etapas o fases, así:
 
@@ -465,7 +465,7 @@
             img(src='@/assets/curso/temas/tema2/img-infografica-1.svg' style="max-width: 76px").col-lg-2.mx-auto.mb-4.mb-lg-auto
             .col-lg-10.ps-lg-3
               .h5.mb-2 Etapa de desarrollo
-              p.mb-0 Aquí se da el desarrollo de un nuevo producto o servicio, por parte de la organizaciones, a partir de la necesidad de los clientes, también se puede hablar de las mejoras o nuevos diseños a productos ya existentes, en esta etapa también se diseña el proceso de lanzamiento del mismo a través de estrategias de promoción del #[em marketing]. 
+              p.mb-0 Aquí se da el desarrollo de un nuevo producto o servicio, por parte de las organizaciones, a partir de la necesidad de los clientes, también se puede hablar de las mejoras o nuevos diseños a productos ya existentes, en esta etapa también se diseña el proceso de lanzamiento del mismo a través de estrategias de promoción del #[em marketing]. 
         
         .tarjeta.p-3(x="41%" y="50%" numero="2" style="background-color: #FED5B1")
           .d-flex.flex-wrap.w-100
@@ -505,7 +505,7 @@
       p.col-xl-7.mb-0.ps-xl-4(data-aos="fade-left") Los productos financieros están creados como #[b instrumentos que permiten a las personas naturales o personas jurídicas, realizar diferentes operaciones como ahorrar e invertir;] estos productos son intangibles, los cuales se encuentran respaldados por un contrato. 
         br
         br
-        | #[b La Ley 1328 de 2009, título I, capítulo I;] define productos y servicios financieros a lo que se entiende por productos las operaciones legalmente autorizadas que se instrumentan en un contrato celebrado con el cliente o que tienen origen en la ley. Se entiende por servicios aquellas actividades conexas al desarrollo de las correspondientes operaciones y que se suministran a los consumidores financieros. al consumidor financiero como todo cliente, usuario o cliente potencial de las entidades vigiladas.
+        | #[b La Ley 1328 de 2009, título I, capítulo I;] define productos y servicios financieros a lo que se entiende por productos las operaciones legalmente autorizadas que se instrumentan en un contrato celebrado con el cliente o que tienen origen en la ley. Se entiende por servicios aquellas actividades conexas al desarrollo de las correspondientes operaciones y que se suministran a los consumidores financieros. Al consumidor financiero como todo cliente, usuario o cliente potencial de las entidades vigiladas.
     
     p.mb-5(data-aos="fade-right") Dentro de los productos financieros ofrecidos se encuentran:
 
@@ -584,7 +584,7 @@
       .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade-right")
         img.position-relative(src='@/assets/curso/temas/tema2/img-19.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
-          p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras
+          p.mb-0 #[b Segmentos de mercados cuantificables, medibles:] miden los clientes potenciales para las organizaciones financieras.
 
       .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade")
         img.position-relative(src='@/assets/curso/temas/tema2/img-20.svg' style="max-width: 85px; margin-right: -40px !important")
@@ -594,7 +594,7 @@
       .d-flex.col-lg-6.col-xl-4.px-lg-2.mb-4(data-aos="fade-left")
         img.position-relative(src='@/assets/curso/temas/tema2/img-21.svg' style="max-width: 85px; margin-right: -40px !important")
         .tarjeta.p-4(style="background-color: #FEC08A; padding-left: 50px !important")
-          p.mb-0 #[b Segmentos del mercado accionables:] establecen la dirección de estrategias de marketing para cada grupo. 
+          p.mb-0 #[b Segmentos del mercado accionables:] establecen la dirección de estrategias de #[em marketing] para cada grupo. 
 
     p.mb-5(data-aos="fade-right") En el mercado financiero también se han identificado diferentes tipos de segmentos, a saber:
 
@@ -625,7 +625,7 @@
     p.mb-5(data-aos="fade-right") A la hora de realizar una segmentación en el mercado financiero de debe seguir tres etapas: 
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-      h5 Figura 4
+      h5 Figura 2
       span Etapas segmentación del mercado financiero 
     .pb-md-4
 
