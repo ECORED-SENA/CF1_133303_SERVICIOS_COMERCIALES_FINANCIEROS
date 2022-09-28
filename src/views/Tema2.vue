@@ -562,7 +562,7 @@
               h3.mb-1 Conozca la Ley 1328 de 2009 de Colombia.
               p.text-small Normas en materia financiera, de seguros, del mercado de valores y otras disposiciones.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/OKEst_Anexo3_LeyesFinancierasColombianas_PDF.docx')" target="_blank")
+              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/Ley_1328_de_2009.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
